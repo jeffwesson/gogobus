@@ -18,4 +18,8 @@
 	]
 	, "author": "Jeff Wesson <jeff@jeffwesson.com>"
 	, "license": "UNLICENSED"
+	, "dependencies": {
+		"gtfs": "0.11.2"
+		, "mongoose": "4.11.1"
+	}
 }
