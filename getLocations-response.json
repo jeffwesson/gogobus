@@ -1,0 +1,4856 @@
+{
+	"status": "OK",
+	"ts": 1499564327,
+	"results": {
+		"locations": [
+			{
+				"id": 606,
+				"pid": 168,
+				"t": "Aachen, Germany",
+				"n": "Aachen",
+				"lat": 50.775346,
+				"lng": 6.083887
+			},
+			{
+				"id": 416,
+				"pid": 415,
+				"t": "Addison County, VT, USA",
+				"n": "Addison County",
+				"lat": 44.119729,
+				"lng": -73.164338
+			},
+			{
+				"id": 4,
+				"pid": 3,
+				"t": "Adelaide SA, Australia",
+				"n": "Adelaide",
+				"lat": -34.928621,
+				"lng": 138.599959
+			},
+			{
+				"id": 99,
+				"pid": 0,
+				"t": "Africa",
+				"n": "Africa",
+				"lat": -8.783195,
+				"lng": 34.508523
+			},
+			{
+				"id": 11,
+				"pid": 9,
+				"t": "Airlie Beach QLD 4802, Australia",
+				"n": "Airlie Beach",
+				"lat": -20.26872,
+				"lng": 148.718456
+			},
+			{
+				"id": 237,
+				"pid": 31,
+				"t": "Alabama, USA",
+				"n": "Alabama",
+				"lat": 32.318231,
+				"lng": -86.902298
+			},
+			{
+				"id": 276,
+				"pid": 31,
+				"t": "Alaska, USA",
+				"n": "Alaska",
+				"lat": 64.200841,
+				"lng": -149.493673
+			},
+			{
+				"id": 328,
+				"pid": 63,
+				"t": "Albany, OR, USA",
+				"n": "Albany",
+				"lat": 44.636511,
+				"lng": -123.105928
+			},
+			{
+				"id": 85,
+				"pid": 84,
+				"t": "Albany, NY, USA",
+				"n": "Albany",
+				"lat": 42.652579,
+				"lng": -73.756232
+			},
+			{
+				"id": 42,
+				"pid": 32,
+				"t": "Alberta, Canada",
+				"n": "Alberta",
+				"lat": 53.933271,
+				"lng": -116.576504
+			},
+			{
+				"id": 81,
+				"pid": 80,
+				"t": "Albuquerque, NM, USA",
+				"n": "Albuquerque",
+				"lat": 35.110703,
+				"lng": -106.609991
+			},
+			{
+				"id": 324,
+				"pid": 138,
+				"t": "Alexandria, VA, USA",
+				"n": "Alexandria",
+				"lat": 38.804836,
+				"lng": -77.046921
+			},
+			{
+				"id": 375,
+				"pid": 373,
+				"t": "Alice Springs NT 0870, Australia",
+				"n": "Alice Springs",
+				"lat": -23.70021,
+				"lng": 133.880611
+			},
+			{
+				"id": 134,
+				"pid": 133,
+				"t": "Allegany, MD, USA",
+				"n": "Allegany",
+				"lat": 39.625525,
+				"lng": -78.6115
+			},
+			{
+				"id": 459,
+				"pid": 105,
+				"t": "Allentown, PA, USA",
+				"n": "Allentown",
+				"lat": 40.60843,
+				"lng": -75.490183
+			},
+			{
+				"id": 297,
+				"pid": 67,
+				"t": "Amador County, CA, USA",
+				"n": "Amador County",
+				"lat": 38.348892,
+				"lng": -120.774093
+			},
+			{
+				"id": 312,
+				"pid": 67,
+				"t": "Anaheim, CA, USA",
+				"n": "Anaheim",
+				"lat": 33.835293,
+				"lng": -117.914504
+			},
+			{
+				"id": 277,
+				"pid": 276,
+				"t": "Anchorage, AK, USA",
+				"n": "Anchorage",
+				"lat": 61.218056,
+				"lng": -149.900278
+			},
+			{
+				"id": 615,
+				"pid": 166,
+				"t": "Andalusia, Spain",
+				"n": "Andalusia",
+				"lat": 37.544271,
+				"lng": -4.727753
+			},
+			{
+				"id": 444,
+				"pid": 161,
+				"t": "Angers, France",
+				"n": "Angers",
+				"lat": 47.478419,
+				"lng": -0.563166
+			},
+			{
+				"id": 424,
+				"pid": 133,
+				"t": "Annapolis, MD, USA",
+				"n": "Annapolis",
+				"lat": 38.978445,
+				"lng": -76.492183
+			},
+			{
+				"id": 136,
+				"pid": 135,
+				"t": "Ann Arbor, MI, USA",
+				"n": "Ann Arbor",
+				"lat": 42.280826,
+				"lng": -83.743038
+			},
+			{
+				"id": 520,
+				"pid": 78,
+				"t": "Apulia, Italy",
+				"n": "Apulia",
+				"lat": 40.792839,
+				"lng": 17.101193
+			},
+			{
+				"id": 400,
+				"pid": 387,
+				"t": "Argentina",
+				"n": "Argentina",
+				"lat": -38.416097,
+				"lng": -63.616672
+			},
+			{
+				"id": 97,
+				"pid": 31,
+				"t": "Arizona, USA",
+				"n": "Arizona",
+				"lat": 34.048928,
+				"lng": -111.093731
+			},
+			{
+				"id": 239,
+				"pid": 31,
+				"t": "Arkansas, USA",
+				"n": "Arkansas",
+				"lat": 35.20105,
+				"lng": -91.831833
+			},
+			{
+				"id": 139,
+				"pid": 138,
+				"t": "Arlington, VA, USA",
+				"n": "Arlington",
+				"lat": 38.87997,
+				"lng": -77.10677
+			},
+			{
+				"id": 141,
+				"pid": 140,
+				"t": "Asheville, NC, USA",
+				"n": "Asheville",
+				"lat": 35.595058,
+				"lng": -82.551487
+			},
+			{
+				"id": 255,
+				"pid": 0,
+				"t": "Asia",
+				"n": "Asia",
+				"lat": 34.047863,
+				"lng": 100.619655
+			},
+			{
+				"id": 349,
+				"pid": 63,
+				"t": "Astoria, OR, USA",
+				"n": "Astoria",
+				"lat": 46.187884,
+				"lng": -123.831253
+			},
+			{
+				"id": 216,
+				"pid": 170,
+				"t": "Athens, OH 45701, USA",
+				"n": "Athens",
+				"lat": 39.32924,
+				"lng": -82.101255
+			},
+			{
+				"id": 432,
+				"pid": 431,
+				"t": "Athens, Greece",
+				"n": "Athens",
+				"lat": 37.983917,
+				"lng": 23.72936
+			},
+			{
+				"id": 95,
+				"pid": 94,
+				"t": "Atlanta, GA, USA",
+				"n": "Atlanta",
+				"lat": 33.748995,
+				"lng": -84.387982
+			},
+			{
+				"id": 126,
+				"pid": 92,
+				"t": "Attleboro, MA, USA",
+				"n": "Attleboro",
+				"lat": 41.944544,
+				"lng": -71.285608
+			},
+			{
+				"id": 203,
+				"pid": 84,
+				"t": "Auburn, NY, USA",
+				"n": "Auburn",
+				"lat": 42.931733,
+				"lng": -76.566053
+			},
+			{
+				"id": 132,
+				"pid": 28,
+				"t": "Auckland, New Zealand",
+				"n": "Auckland",
+				"lat": -36.84846,
+				"lng": 174.763331
+			},
+			{
+				"id": 37,
+				"pid": 35,
+				"t": "Austin, TX, USA",
+				"n": "Austin",
+				"lat": 30.267153,
+				"lng": -97.743061
+			},
+			{
+				"id": 2,
+				"pid": 1,
+				"t": "Australia",
+				"n": "Australia",
+				"lat": -25.274398,
+				"lng": 133.775136
+			},
+			{
+				"id": 7,
+				"pid": 2,
+				"t": "Australian Capital Territory, Australia",
+				"n": "Australian Capital Territory",
+				"lat": -35.473468,
+				"lng": 149.012368
+			},
+			{
+				"id": 572,
+				"pid": 388,
+				"t": "Bagé, RS, Brazil",
+				"n": "Bagé",
+				"lat": -31.330142,
+				"lng": -54.100462
+			},
+			{
+				"id": 246,
+				"pid": 67,
+				"t": "Bakersfield, CA, USA",
+				"n": "Bakersfield",
+				"lat": 35.373292,
+				"lng": -119.018713
+			},
+			{
+				"id": 425,
+				"pid": 133,
+				"t": "Baltimore, MD, USA",
+				"n": "Baltimore",
+				"lat": 39.290385,
+				"lng": -76.612189
+			},
+			{
+				"id": 315,
+				"pid": 313,
+				"t": "Bari, Italy",
+				"n": "Bari",
+				"lat": 41.117143,
+				"lng": 16.871872
+			},
+			{
+				"id": 313,
+				"pid": 520,
+				"t": "Bari, Italy",
+				"n": "Bari",
+				"lat": 41.117123,
+				"lng": 16.871976
+			},
+			{
+				"id": 609,
+				"pid": 78,
+				"t": "Bari, Italy",
+				"n": "Bari",
+				"lat": 41.117143,
+				"lng": 16.871872
+			},
+			{
+				"id": 379,
+				"pid": 46,
+				"t": "Barrie, ON, Canada",
+				"n": "Barrie",
+				"lat": 44.389356,
+				"lng": -79.690332
+			},
+			{
+				"id": 298,
+				"pid": 67,
+				"t": "Beaumont, CA, USA",
+				"n": "Beaumont",
+				"lat": 33.929461,
+				"lng": -116.977248
+			},
+			{
+				"id": 382,
+				"pid": 60,
+				"t": "Belgium",
+				"n": "Belgium",
+				"lat": 50.503887,
+				"lng": 4.469936
+			},
+			{
+				"id": 481,
+				"pid": 388,
+				"t": "Belo Horizonte, Belo Horizonte - State of Minas Gerais, Brazil",
+				"n": "Belo Horizonte",
+				"lat": -19.916681,
+				"lng": -43.934493
+			},
+			{
+				"id": 563,
+				"pid": 151,
+				"t": "Beloit, WI 53511, USA",
+				"n": "Beloit",
+				"lat": 42.508348,
+				"lng": -89.031776
+			},
+			{
+				"id": 331,
+				"pid": 63,
+				"t": "Bend, OR, USA",
+				"n": "Bend",
+				"lat": 44.058173,
+				"lng": -121.31531
+			},
+			{
+				"id": 421,
+				"pid": 415,
+				"t": "Bennington, VT 05201, USA",
+				"n": "Bennington",
+				"lat": 42.878135,
+				"lng": -73.196774
+			},
+			{
+				"id": 330,
+				"pid": 63,
+				"t": "Benton County, OR, USA",
+				"n": "Benton County",
+				"lat": 44.628169,
+				"lng": -123.387388
+			},
+			{
+				"id": 121,
+				"pid": 92,
+				"t": "Berkshire, MA, USA",
+				"n": "Berkshire",
+				"lat": 42.311782,
+				"lng": -73.182162
+			},
+			{
+				"id": 169,
+				"pid": 168,
+				"t": "Berlin, Germany",
+				"n": "Berlin",
+				"lat": 52.519171,
+				"lng": 13.406091
+			},
+			{
+				"id": 451,
+				"pid": 67,
+				"t": "Big Bear, CA, USA",
+				"n": "Big Bear",
+				"lat": 34.261118,
+				"lng": -116.84503
+			},
+			{
+				"id": 484,
+				"pid": 166,
+				"t": "Bilbao, Biscay, Spain",
+				"n": "Bilbao",
+				"lat": 43.263013,
+				"lng": -2.934985
+			},
+			{
+				"id": 503,
+				"pid": 237,
+				"t": "Birmingham, AL, USA",
+				"n": "Birmingham",
+				"lat": 33.520661,
+				"lng": -86.80249
+			},
+			{
+				"id": 453,
+				"pid": 67,
+				"t": "Bishop, CA 93514, USA",
+				"n": "Bishop",
+				"lat": 37.361424,
+				"lng": -118.399664
+			},
+			{
+				"id": 264,
+				"pid": 138,
+				"t": "Blacksburg, VA, USA",
+				"n": "Blacksburg",
+				"lat": 37.229573,
+				"lng": -80.413939
+			},
+			{
+				"id": 285,
+				"pid": 164,
+				"t": "Bloomington, IN, USA",
+				"n": "Bloomington",
+				"lat": 39.165325,
+				"lng": -86.526386
+			},
+			{
+				"id": 489,
+				"pid": 145,
+				"t": "Bloomington, IL, USA",
+				"n": "Bloomington",
+				"lat": 40.484203,
+				"lng": -88.993687
+			},
+			{
+				"id": 527,
+				"pid": 526,
+				"t": "Bogor, Bogor City, West Java, Indonesia",
+				"n": "Bogor",
+				"lat": -6.597147,
+				"lng": 106.806039
+			},
+			{
+				"id": 404,
+				"pid": 403,
+				"t": "Bogotá, Bogota, Colombia",
+				"n": "Bogota",
+				"lat": 4.710989,
+				"lng": -74.072092
+			},
+			{
+				"id": 93,
+				"pid": 92,
+				"t": "Boston, MA, USA",
+				"n": "Boston",
+				"lat": 42.358431,
+				"lng": -71.059773
+			},
+			{
+				"id": 12,
+				"pid": 9,
+				"t": "Bowen QLD 4805, Australia",
+				"n": "Bowen",
+				"lat": -20.012195,
+				"lng": 148.246291
+			},
+			{
+				"id": 492,
+				"pid": 301,
+				"t": "Bozeman, MT, USA",
+				"n": "Bozeman",
+				"lat": 45.676998,
+				"lng": -111.042934
+			},
+			{
+				"id": 283,
+				"pid": 74,
+				"t": "Bradenton, FL, USA",
+				"n": "Bradenton",
+				"lat": 27.498928,
+				"lng": -82.574819
+			},
+			{
+				"id": 51,
+				"pid": 46,
+				"t": "Brampton, ON, Canada",
+				"n": "Brampton",
+				"lat": 43.683333,
+				"lng": -79.766667
+			},
+			{
+				"id": 388,
+				"pid": 387,
+				"t": "Brazil",
+				"n": "Brazil",
+				"lat": -14.235004,
+				"lng": -51.92528
+			},
+			{
+				"id": 463,
+				"pid": 170,
+				"t": "Brecksville, OH 44141, USA",
+				"n": "Brecksville",
+				"lat": 41.319776,
+				"lng": -81.62679
+			},
+			{
+				"id": 214,
+				"pid": 65,
+				"t": "Bremerton, WA, USA",
+				"n": "Bremerton",
+				"lat": 47.56732,
+				"lng": -122.632936
+			},
+			{
+				"id": 442,
+				"pid": 161,
+				"t": "Brest, France",
+				"n": "Brest",
+				"lat": 48.390394,
+				"lng": -4.486076
+			},
+			{
+				"id": 10,
+				"pid": 9,
+				"t": "Brisbane QLD, Australia",
+				"n": "Brisbane",
+				"lat": -27.471011,
+				"lng": 153.023449
+			},
+			{
+				"id": 44,
+				"pid": 32,
+				"t": "British Columbia, Canada",
+				"n": "British Columbia",
+				"lat": 53.726668,
+				"lng": -127.647621
+			},
+			{
+				"id": 122,
+				"pid": 92,
+				"t": "Brockton, MA, USA",
+				"n": "Brockton",
+				"lat": 42.083433,
+				"lng": -71.018379
+			},
+			{
+				"id": 116,
+				"pid": 91,
+				"t": "Bronx, NY, USA",
+				"n": "Bronx",
+				"lat": 40.85,
+				"lng": -73.866667
+			},
+			{
+				"id": 340,
+				"pid": 63,
+				"t": "Brookings, OR, USA",
+				"n": "Brookings",
+				"lat": 42.052611,
+				"lng": -124.283982
+			},
+			{
+				"id": 119,
+				"pid": 91,
+				"t": "Brooklyn, NY, USA",
+				"n": "Brooklyn",
+				"lat": 40.65,
+				"lng": -73.95
+			},
+			{
+				"id": 409,
+				"pid": 74,
+				"t": "Brooksville, FL, USA",
+				"n": "Brooksville",
+				"lat": 28.555272,
+				"lng": -82.387871
+			},
+			{
+				"id": 383,
+				"pid": 382,
+				"t": "Brussels, Belgium",
+				"n": "Brussels",
+				"lat": 50.85034,
+				"lng": 4.35171
+			},
+			{
+				"id": 62,
+				"pid": 61,
+				"t": "Budapest, Hungary",
+				"n": "Budapest",
+				"lat": 47.497912,
+				"lng": 19.040235
+			},
+			{
+				"id": 401,
+				"pid": 400,
+				"t": "Buenos Aires, Autonomous City of Buenos Aires, Argentina",
+				"n": "Buenos Aires",
+				"lat": -34.603684,
+				"lng": -58.381559
+			},
+			{
+				"id": 183,
+				"pid": 84,
+				"t": "Buffalo, NY, USA",
+				"n": "Buffalo",
+				"lat": 42.886447,
+				"lng": -78.878369
+			},
+			{
+				"id": 491,
+				"pid": 97,
+				"t": "Bullhead City, AZ, USA",
+				"n": "Bullhead City",
+				"lat": 35.135939,
+				"lng": -114.528598
+			},
+			{
+				"id": 13,
+				"pid": 9,
+				"t": "Bundaberg QLD 4670, Australia",
+				"n": "Bundaberg",
+				"lat": -24.864963,
+				"lng": 152.348653
+			},
+			{
+				"id": 212,
+				"pid": 46,
+				"t": "Burlington, ON, Canada",
+				"n": "Burlington",
+				"lat": 43.32552,
+				"lng": -79.799032
+			},
+			{
+				"id": 224,
+				"pid": 221,
+				"t": "Burnie TAS 7320, Australia",
+				"n": "Burnie",
+				"lat": -41.052465,
+				"lng": 145.906851
+			},
+			{
+				"id": 302,
+				"pid": 301,
+				"t": "Butte, MT, USA",
+				"n": "Butte",
+				"lat": 46.003823,
+				"lng": -112.534778
+			},
+			{
+				"id": 540,
+				"pid": 113,
+				"t": "Byron Bay NSW 2481, Australia",
+				"n": "Byron Bay",
+				"lat": -28.647367,
+				"lng": 153.601977
+			},
+			{
+				"id": 567,
+				"pid": 140,
+				"t": "Cabarrus County, NC, USA",
+				"n": "Cabarrus County",
+				"lat": 35.416812,
+				"lng": -80.58828
+			},
+			{
+				"id": 14,
+				"pid": 9,
+				"t": "Cairns QLD, Australia",
+				"n": "Cairns",
+				"lat": -16.920334,
+				"lng": 145.77086
+			},
+			{
+				"id": 186,
+				"pid": 42,
+				"t": "Calgary, AB, Canada",
+				"n": "Calgary",
+				"lat": 51.045325,
+				"lng": -114.058101
+			},
+			{
+				"id": 67,
+				"pid": 31,
+				"t": "California, USA",
+				"n": "California",
+				"lat": 36.778261,
+				"lng": -119.417932
+			},
+			{
+				"id": 32,
+				"pid": 30,
+				"t": "Canada",
+				"n": "Canada",
+				"lat": 56.130366,
+				"lng": -106.346771
+			},
+			{
+				"id": 372,
+				"pid": 166,
+				"t": "Canary Islands, Spain",
+				"n": "Canary Islands",
+				"lat": 28.291564,
+				"lng": -16.62913
+			},
+			{
+				"id": 8,
+				"pid": 7,
+				"t": "Canberra ACT, Australia",
+				"n": "Canberra",
+				"lat": -35.282,
+				"lng": 149.128684
+			},
+			{
+				"id": 458,
+				"pid": 31,
+				"t": "Canby, OR 97013, USA",
+				"n": "Canby",
+				"lat": 45.262265,
+				"lng": -122.692101
+			},
+			{
+				"id": 124,
+				"pid": 92,
+				"t": "Cape Cod, MA, USA",
+				"n": "Cape Cod",
+				"lat": 41.672928,
+				"lng": -70.339087
+			},
+			{
+				"id": 102,
+				"pid": 101,
+				"t": "Cape Town, South Africa",
+				"n": "Cape Town",
+				"lat": -33.924869,
+				"lng": 18.424055
+			},
+			{
+				"id": 426,
+				"pid": 133,
+				"t": "Carroll County, MD, USA",
+				"n": "Carroll County",
+				"lat": 39.542342,
+				"lng": -77.056446
+			},
+			{
+				"id": 273,
+				"pid": 140,
+				"t": "Cary, NC, USA",
+				"n": "Cary",
+				"lat": 35.79154,
+				"lng": -78.781117
+			},
+			{
+				"id": 427,
+				"pid": 133,
+				"t": "Cecil County, MD, USA",
+				"n": "Cecil County",
+				"lat": 39.57394,
+				"lng": -75.946324
+			},
+			{
+				"id": 147,
+				"pid": 145,
+				"t": "Champaign, IL, USA",
+				"n": "Champaign",
+				"lat": 40.11642,
+				"lng": -88.243383
+			},
+			{
+				"id": 274,
+				"pid": 140,
+				"t": "Chapel Hill, NC, USA",
+				"n": "Chapel Hill",
+				"lat": 35.9132,
+				"lng": -79.055845
+			},
+			{
+				"id": 395,
+				"pid": 268,
+				"t": "Charleston, SC, USA",
+				"n": "Charleston",
+				"lat": 32.776475,
+				"lng": -79.931051
+			},
+			{
+				"id": 440,
+				"pid": 439,
+				"t": "Charlottetown, PE, Canada",
+				"n": "Charlottetown",
+				"lat": 46.23824,
+				"lng": -63.13107
+			},
+			{
+				"id": 265,
+				"pid": 174,
+				"t": "Chattanooga, TN, USA",
+				"n": "Chattanooga",
+				"lat": 35.04563,
+				"lng": -85.30968
+			},
+			{
+				"id": 614,
+				"pid": 164,
+				"t": "Chesterton, IN 46304, USA",
+				"n": "Chesterton",
+				"lat": 41.610594,
+				"lng": -87.064199
+			},
+			{
+				"id": 584,
+				"pid": 583,
+				"t": "Chiang Mai, Mueang Chiang Mai District, Chiang Mai, Thailand",
+				"n": "Chiang Mai",
+				"lat": 18.706064,
+				"lng": 98.981716
+			},
+			{
+				"id": 146,
+				"pid": 145,
+				"t": "Chicago, IL, USA",
+				"n": "Chicago",
+				"lat": 41.878114,
+				"lng": -87.629798
+			},
+			{
+				"id": 418,
+				"pid": 415,
+				"t": "Chittenden County, VT, USA",
+				"n": "Chittenden County",
+				"lat": 44.395929,
+				"lng": -72.996243
+			},
+			{
+				"id": 59,
+				"pid": 28,
+				"t": "Christchurch, New Zealand",
+				"n": "Christchurch",
+				"lat": -43.532054,
+				"lng": 172.636225
+			},
+			{
+				"id": 173,
+				"pid": 170,
+				"t": "Cincinnati, OH, USA",
+				"n": "Cincinnati",
+				"lat": 39.103118,
+				"lng": -84.51202
+			},
+			{
+				"id": 408,
+				"pid": 74,
+				"t": "Citrus County, FL, USA",
+				"n": "Citrus County",
+				"lat": 28.884884,
+				"lng": -82.518584
+			},
+			{
+				"id": 490,
+				"pid": 63,
+				"t": "Clackamas County, OR, USA",
+				"n": "Clackamas County",
+				"lat": 45.202385,
+				"lng": -122.118894
+			},
+			{
+				"id": 269,
+				"pid": 268,
+				"t": "Clemson, SC, USA",
+				"n": "Clemson",
+				"lat": 34.683438,
+				"lng": -82.837365
+			},
+			{
+				"id": 171,
+				"pid": 170,
+				"t": "Cleveland, OH, USA",
+				"n": "Cleveland",
+				"lat": 41.499495,
+				"lng": -81.695409
+			},
+			{
+				"id": 280,
+				"pid": 94,
+				"t": "Cobb County, GA, USA",
+				"n": "Cobb County",
+				"lat": 33.89993,
+				"lng": -84.564147
+			},
+			{
+				"id": 605,
+				"pid": 168,
+				"t": "Cologne, Germany",
+				"n": "Cologne",
+				"lat": 50.937531,
+				"lng": 6.960279
+			},
+			{
+				"id": 403,
+				"pid": 387,
+				"t": "Colombia",
+				"n": "Colombia",
+				"lat": 4.570868,
+				"lng": -74.297333
+			},
+			{
+				"id": 107,
+				"pid": 31,
+				"t": "Colorado, USA",
+				"n": "Colorado",
+				"lat": 39.550051,
+				"lng": -105.782067
+			},
+			{
+				"id": 282,
+				"pid": 107,
+				"t": "Colorado Springs, CO, USA",
+				"n": "Colorado Springs",
+				"lat": 38.833882,
+				"lng": -104.821363
+			},
+			{
+				"id": 334,
+				"pid": 63,
+				"t": "Columbia County, OR, USA",
+				"n": "Columbia County",
+				"lat": 45.91971,
+				"lng": -123.035723
+			},
+			{
+				"id": 172,
+				"pid": 170,
+				"t": "Columbus, OH, USA",
+				"n": "Columbus",
+				"lat": 39.961176,
+				"lng": -82.998794
+			},
+			{
+				"id": 176,
+				"pid": 67,
+				"t": "Concord, CA, USA",
+				"n": "Concord",
+				"lat": 37.977978,
+				"lng": -122.031073
+			},
+			{
+				"id": 227,
+				"pid": 31,
+				"t": "Connecticut, USA",
+				"n": "Connecticut",
+				"lat": 41.603221,
+				"lng": -73.087749
+			},
+			{
+				"id": 338,
+				"pid": 63,
+				"t": "Coos County, OR, USA",
+				"n": "Coos County",
+				"lat": 43.242897,
+				"lng": -124.105737
+			},
+			{
+				"id": 590,
+				"pid": 400,
+				"t": "Córdoba, Cordoba, Argentina",
+				"n": "Córdoba",
+				"lat": -31.420083,
+				"lng": -64.188776
+			},
+			{
+				"id": 306,
+				"pid": 67,
+				"t": "Corona, CA, USA",
+				"n": "Corona",
+				"lat": 33.875293,
+				"lng": -117.566438
+			},
+			{
+				"id": 41,
+				"pid": 35,
+				"t": "Corpus Christi, TX, USA",
+				"n": "Corpus Christi",
+				"lat": 27.800583,
+				"lng": -97.396381
+			},
+			{
+				"id": 339,
+				"pid": 63,
+				"t": "Corvallis, OR, USA",
+				"n": "Corvallis",
+				"lat": 44.564566,
+				"lng": -123.262044
+			},
+			{
+				"id": 354,
+				"pid": 63,
+				"t": "Cottage Grove, OR 97424, USA",
+				"n": "Cottage Grove",
+				"lat": 43.797623,
+				"lng": -123.059525
+			},
+			{
+				"id": 190,
+				"pid": 97,
+				"t": "Cottonwood, AZ, USA",
+				"n": "Cottonwood",
+				"lat": 34.739188,
+				"lng": -112.009879
+			},
+			{
+				"id": 450,
+				"pid": 67,
+				"t": "Crescent City, CA, USA",
+				"n": "Crescent City",
+				"lat": 41.75575,
+				"lng": -124.202591
+			},
+			{
+				"id": 559,
+				"pid": 558,
+				"t": "Cumberland County, ME, USA",
+				"n": "Cumberland County",
+				"lat": 43.813298,
+				"lng": -70.387059
+			},
+			{
+				"id": 467,
+				"pid": 466,
+				"t": "12100 Cuneo CN, Italy",
+				"n": "Cuneo",
+				"lat": 44.384477,
+				"lng": 7.542671
+			},
+			{
+				"id": 587,
+				"pid": 60,
+				"t": "Czechia",
+				"n": "Czechia",
+				"lat": 49.817492,
+				"lng": 15.472962
+			},
+			{
+				"id": 38,
+				"pid": 35,
+				"t": "Dallas, TX, USA",
+				"n": "Dallas",
+				"lat": 32.78014,
+				"lng": -96.800451
+			},
+			{
+				"id": 547,
+				"pid": 35,
+				"t": "Dallas County, TX, USA",
+				"n": "Dallas County",
+				"lat": 32.802468,
+				"lng": -96.8351
+			},
+			{
+				"id": 374,
+				"pid": 373,
+				"t": "Darwin NT, Australia",
+				"n": "Darwin",
+				"lat": -12.462827,
+				"lng": 130.841777
+			},
+			{
+				"id": 218,
+				"pid": 67,
+				"t": "Davis, CA, USA",
+				"n": "Davis",
+				"lat": 38.544907,
+				"lng": -121.740517
+			},
+			{
+				"id": 589,
+				"pid": 74,
+				"t": "Daytona Beach, FL, USA",
+				"n": "Daytona Beach",
+				"lat": 29.210815,
+				"lng": -81.022833
+			},
+			{
+				"id": 163,
+				"pid": 31,
+				"t": "Delaware, USA",
+				"n": "Delaware",
+				"lat": 38.910832,
+				"lng": -75.52767
+			},
+			{
+				"id": 510,
+				"pid": 60,
+				"t": "Denmark",
+				"n": "Denmark",
+				"lat": 56.26392,
+				"lng": 9.501785
+			},
+			{
+				"id": 108,
+				"pid": 107,
+				"t": "Denver, CO, USA",
+				"n": "Denver",
+				"lat": 39.737567,
+				"lng": -104.984718
+			},
+			{
+				"id": 398,
+				"pid": 397,
+				"t": "Des Moines, IA, USA",
+				"n": "Des Moines",
+				"lat": 41.600545,
+				"lng": -93.609106
+			},
+			{
+				"id": 217,
+				"pid": 135,
+				"t": "Detroit, MI, USA",
+				"n": "Detroit",
+				"lat": 42.331427,
+				"lng": -83.045754
+			},
+			{
+				"id": 111,
+				"pid": 31,
+				"t": "District of Columbia, USA",
+				"n": "District of Columbia",
+				"lat": 38.905985,
+				"lng": -77.033418
+			},
+			{
+				"id": 480,
+				"pid": 475,
+				"t": "Druskininkai, Lithuania",
+				"n": "Druskininkai",
+				"lat": 54.004907,
+				"lng": 23.986428
+			},
+			{
+				"id": 561,
+				"pid": 67,
+				"t": "Duarte, CA, USA",
+				"n": "Duarte",
+				"lat": 34.139451,
+				"lng": -117.977287
+			},
+			{
+				"id": 579,
+				"pid": 578,
+				"t": "Dublin, Ireland",
+				"n": "Dublin",
+				"lat": 53.349805,
+				"lng": -6.26031
+			},
+			{
+				"id": 149,
+				"pid": 148,
+				"t": "Duluth, MN, USA",
+				"n": "Duluth",
+				"lat": 46.786672,
+				"lng": -92.100485
+			},
+			{
+				"id": 275,
+				"pid": 140,
+				"t": "Durham, NC, USA",
+				"n": "Durham",
+				"lat": 35.994033,
+				"lng": -78.898619
+			},
+			{
+				"id": 483,
+				"pid": 46,
+				"t": "Durham, ON, Canada",
+				"n": "Durham",
+				"lat": 44.176325,
+				"lng": -80.818501
+			},
+			{
+				"id": 581,
+				"pid": 46,
+				"t": "Durham Regional Municipality, ON, Canada",
+				"n": "Durham Regional Municipality",
+				"lat": 43.936838,
+				"lng": -78.928824
+			},
+			{
+				"id": 555,
+				"pid": 107,
+				"t": "Eagle County, CO, USA",
+				"n": "Eagle County",
+				"lat": 39.576406,
+				"lng": -106.723464
+			},
+			{
+				"id": 557,
+				"pid": 135,
+				"t": "East Lansing, MI, USA",
+				"n": "East Lansing",
+				"lat": 42.736979,
+				"lng": -84.483865
+			},
+			{
+				"id": 43,
+				"pid": 42,
+				"t": "Edmonton, AB, Canada",
+				"n": "Edmonton",
+				"lat": 53.544389,
+				"lng": -113.490927
+			},
+			{
+				"id": 500,
+				"pid": 67,
+				"t": "El Dorado County, CA, USA",
+				"n": "El Dorado County",
+				"lat": 38.742638,
+				"lng": -120.435763
+			},
+			{
+				"id": 464,
+				"pid": 35,
+				"t": "El Paso, TX, USA",
+				"n": "El Paso",
+				"lat": 31.761878,
+				"lng": -106.485022
+			},
+			{
+				"id": 568,
+				"pid": 67,
+				"t": "Emeryville, CA, USA",
+				"n": "Emeryville",
+				"lat": 37.831316,
+				"lng": -122.285247
+			},
+			{
+				"id": 178,
+				"pid": 177,
+				"t": "England, UK",
+				"n": "England",
+				"lat": 52.355518,
+				"lng": -1.17432
+			},
+			{
+				"id": 452,
+				"pid": 67,
+				"t": "Escalon, CA 95320, USA",
+				"n": "Escalon",
+				"lat": 37.797427,
+				"lng": -120.996603
+			},
+			{
+				"id": 369,
+				"pid": 60,
+				"t": "Estonia",
+				"n": "Estonia",
+				"lat": 58.595272,
+				"lng": 25.013607
+			},
+			{
+				"id": 225,
+				"pid": 63,
+				"t": "Eugene, OR, USA",
+				"n": "Eugene",
+				"lat": 44.052069,
+				"lng": -123.086754
+			},
+			{
+				"id": 60,
+				"pid": 0,
+				"t": "Europe",
+				"n": "Europe",
+				"lat": 54.525961,
+				"lng": 15.255119
+			},
+			{
+				"id": 336,
+				"pid": 65,
+				"t": "Everett, WA, USA",
+				"n": "Everett",
+				"lat": 47.978985,
+				"lng": -122.202079
+			},
+			{
+				"id": 474,
+				"pid": 276,
+				"t": "Fairbanks, AK, USA",
+				"n": "Fairbanks",
+				"lat": 64.837778,
+				"lng": -147.716389
+			},
+			{
+				"id": 213,
+				"pid": 138,
+				"t": "Fairfax, VA, USA",
+				"n": "Fairfax",
+				"lat": 38.846224,
+				"lng": -77.306373
+			},
+			{
+				"id": 244,
+				"pid": 67,
+				"t": "Fairfield, CA, USA",
+				"n": "Fairfield",
+				"lat": 38.249358,
+				"lng": -122.039966
+			},
+			{
+				"id": 603,
+				"pid": 602,
+				"t": "Fargo, ND, USA",
+				"n": "Fargo",
+				"lat": 46.877186,
+				"lng": -96.789803
+			},
+			{
+				"id": 566,
+				"pid": 80,
+				"t": "Farmington, NM, USA",
+				"n": "Farmington",
+				"lat": 36.728058,
+				"lng": -108.218686
+			},
+			{
+				"id": 530,
+				"pid": 60,
+				"t": "Finland",
+				"n": "Finland",
+				"lat": 61.92411,
+				"lng": 25.748151
+			},
+			{
+				"id": 191,
+				"pid": 97,
+				"t": "Flagstaff, AZ, USA",
+				"n": "Flagstaff",
+				"lat": 35.201352,
+				"lng": -111.639249
+			},
+			{
+				"id": 385,
+				"pid": 382,
+				"t": "Flanders, Belgium",
+				"n": "Flanders",
+				"lat": 51.033855,
+				"lng": 4.190475
+			},
+			{
+				"id": 543,
+				"pid": 542,
+				"t": "Florence, Italy",
+				"n": "Florence",
+				"lat": 43.76956,
+				"lng": 11.255814
+			},
+			{
+				"id": 351,
+				"pid": 63,
+				"t": "Florence, OR 97439, USA",
+				"n": "Florence",
+				"lat": 43.982621,
+				"lng": -124.099841
+			},
+			{
+				"id": 74,
+				"pid": 31,
+				"t": "Florida, USA",
+				"n": "Florida",
+				"lat": 27.664827,
+				"lng": -81.515754
+			},
+			{
+				"id": 368,
+				"pid": 107,
+				"t": "Fort Collins, CO, USA",
+				"n": "Fort Collins",
+				"lat": 40.58526,
+				"lng": -105.084423
+			},
+			{
+				"id": 182,
+				"pid": 74,
+				"t": "Fort Lauderdale, FL, USA",
+				"n": "Fort Lauderdale",
+				"lat": 26.122308,
+				"lng": -80.143379
+			},
+			{
+				"id": 286,
+				"pid": 164,
+				"t": "Fort Wayne, IN, USA",
+				"n": "Fort Wayne",
+				"lat": 41.079273,
+				"lng": -85.139351
+			},
+			{
+				"id": 86,
+				"pid": 35,
+				"t": "Fort Worth, TX, USA",
+				"n": "Fort Worth",
+				"lat": 32.725409,
+				"lng": -97.32085
+			},
+			{
+				"id": 219,
+				"pid": 198,
+				"t": "Fort Wright, KY, USA",
+				"n": "Fort Wright",
+				"lat": 39.051156,
+				"lng": -84.535029
+			},
+			{
+				"id": 161,
+				"pid": 60,
+				"t": "France",
+				"n": "France",
+				"lat": 46.227638,
+				"lng": 2.213749
+			},
+			{
+				"id": 125,
+				"pid": 92,
+				"t": "Franklin, MA, USA",
+				"n": "Franklin",
+				"lat": 42.083431,
+				"lng": -71.396725
+			},
+			{
+				"id": 226,
+				"pid": 67,
+				"t": "Fresno, CA, USA",
+				"n": "Fresno",
+				"lat": 36.746842,
+				"lng": -119.772587
+			},
+			{
+				"id": 248,
+				"pid": 74,
+				"t": "Gainesville, FL, USA",
+				"n": "Gainesville",
+				"lat": 29.651634,
+				"lng": -82.324826
+			},
+			{
+				"id": 551,
+				"pid": 35,
+				"t": "Galveston, TX, USA",
+				"n": "Galveston",
+				"lat": 29.301348,
+				"lng": -94.797696
+			},
+			{
+				"id": 596,
+				"pid": 54,
+				"t": "Gatineau, QC, Canada",
+				"n": "Gatineau",
+				"lat": 45.476545,
+				"lng": -75.701272
+			},
+			{
+				"id": 94,
+				"pid": 31,
+				"t": "Georgia, USA",
+				"n": "Georgia",
+				"lat": 32.157435,
+				"lng": -82.907123
+			},
+			{
+				"id": 168,
+				"pid": 60,
+				"t": "Germany",
+				"n": "Germany",
+				"lat": 51.165691,
+				"lng": 10.451526
+			},
+			{
+				"id": 15,
+				"pid": 9,
+				"t": "Gladstone QLD 4680, Australia",
+				"n": "Gladstone",
+				"lat": -23.848708,
+				"lng": 151.2598
+			},
+			{
+				"id": 469,
+				"pid": 67,
+				"t": "Glendale, CA, USA",
+				"n": "Glendale",
+				"lat": 34.142508,
+				"lng": -118.255075
+			},
+			{
+				"id": 604,
+				"pid": 602,
+				"t": "Grand Forks, ND, USA",
+				"n": "Grand Forks",
+				"lat": 47.925257,
+				"lng": -97.032855
+			},
+			{
+				"id": 288,
+				"pid": 135,
+				"t": "Grand Rapids, MI, USA",
+				"n": "Grand Rapids",
+				"lat": 42.96336,
+				"lng": -85.668086
+			},
+			{
+				"id": 350,
+				"pid": 63,
+				"t": "Grant County, OR, USA",
+				"n": "Grant County",
+				"lat": 44.438408,
+				"lng": -118.891733
+			},
+			{
+				"id": 431,
+				"pid": 60,
+				"t": "Greece",
+				"n": "Greece",
+				"lat": 39.074208,
+				"lng": 21.824312
+			},
+			{
+				"id": 396,
+				"pid": 140,
+				"t": "Greensboro, NC, USA",
+				"n": "Greensboro",
+				"lat": 36.072635,
+				"lng": -79.791975
+			},
+			{
+				"id": 443,
+				"pid": 161,
+				"t": "Grenoble, France",
+				"n": "Grenoble",
+				"lat": 45.188529,
+				"lng": 5.724524
+			},
+			{
+				"id": 82,
+				"pid": 46,
+				"t": "Guelph, ON, Canada",
+				"n": "Guelph",
+				"lat": 43.544805,
+				"lng": -80.248167
+			},
+			{
+				"id": 613,
+				"pid": 94,
+				"t": "Gwinnett County, GA, USA",
+				"n": "Gwinnett County",
+				"lat": 33.919065,
+				"lng": -84.016742
+			},
+			{
+				"id": 16,
+				"pid": 9,
+				"t": "Gympie QLD 4570, Australia",
+				"n": "Gympie",
+				"lat": -26.190298,
+				"lng": 152.665391
+			},
+			{
+				"id": 53,
+				"pid": 52,
+				"t": "Halifax, NS, Canada",
+				"n": "Halifax",
+				"lat": 44.648862,
+				"lng": -63.57532
+			},
+			{
+				"id": 48,
+				"pid": 46,
+				"t": "Hamilton, ON, Canada",
+				"n": "Hamilton",
+				"lat": 43.250021,
+				"lng": -79.866091
+			},
+			{
+				"id": 263,
+				"pid": 138,
+				"t": "Hampton, VA, USA",
+				"n": "Hampton",
+				"lat": 37.029869,
+				"lng": -76.345222
+			},
+			{
+				"id": 429,
+				"pid": 133,
+				"t": "Harford County, MD, USA",
+				"n": "Harford County",
+				"lat": 39.583896,
+				"lng": -76.363728
+			},
+			{
+				"id": 437,
+				"pid": 138,
+				"t": "Harrisonburg, VA, USA",
+				"n": "Harrisonburg",
+				"lat": 38.449569,
+				"lng": -78.868915
+			},
+			{
+				"id": 417,
+				"pid": 415,
+				"t": "Hartford, VT, USA",
+				"n": "Hartford",
+				"lat": 43.663741,
+				"lng": -72.369699
+			},
+			{
+				"id": 228,
+				"pid": 227,
+				"t": "Hartford, CT, USA",
+				"n": "Hartford",
+				"lat": 41.763711,
+				"lng": -72.685093
+			},
+			{
+				"id": 87,
+				"pid": 31,
+				"t": "Hawaii, USA",
+				"n": "Hawaii",
+				"lat": 19.896766,
+				"lng": -155.582782
+			},
+			{
+				"id": 538,
+				"pid": 530,
+				"t": "Helsinki, Finland",
+				"n": "Helsinki",
+				"lat": 60.169856,
+				"lng": 24.938379
+			},
+			{
+				"id": 254,
+				"pid": 67,
+				"t": "Hesperia, CA, USA",
+				"n": "Hesperia",
+				"lat": 34.426389,
+				"lng": -117.300878
+			},
+			{
+				"id": 222,
+				"pid": 221,
+				"t": "Hobart TAS, Australia",
+				"n": "Hobart",
+				"lat": -42.881903,
+				"lng": 147.323815
+			},
+			{
+				"id": 88,
+				"pid": 87,
+				"t": "Honolulu, HI, USA",
+				"n": "Honolulu",
+				"lat": 21.306944,
+				"lng": -157.858333
+			},
+			{
+				"id": 333,
+				"pid": 63,
+				"t": "Hood River County, OR, USA",
+				"n": "Hood River County",
+				"lat": 45.560547,
+				"lng": -121.63788
+			},
+			{
+				"id": 40,
+				"pid": 35,
+				"t": "Houston, TX, USA",
+				"n": "Houston",
+				"lat": 29.760193,
+				"lng": -95.36939
+			},
+			{
+				"id": 137,
+				"pid": 67,
+				"t": "Humboldt County, CA, USA",
+				"n": "Humboldt County",
+				"lat": 40.745005,
+				"lng": -123.869509
+			},
+			{
+				"id": 61,
+				"pid": 60,
+				"t": "Hungary",
+				"n": "Hungary",
+				"lat": 47.162494,
+				"lng": 19.503304
+			},
+			{
+				"id": 238,
+				"pid": 237,
+				"t": "Huntsville, AL, USA",
+				"n": "Huntsville",
+				"lat": 34.730369,
+				"lng": -86.586104
+			},
+			{
+				"id": 278,
+				"pid": 31,
+				"t": "Idaho, USA",
+				"n": "Idaho",
+				"lat": 44.068202,
+				"lng": -114.742041
+			},
+			{
+				"id": 145,
+				"pid": 31,
+				"t": "Illinois, USA",
+				"n": "Illinois",
+				"lat": 40.633125,
+				"lng": -89.398528
+			},
+			{
+				"id": 164,
+				"pid": 31,
+				"t": "Indiana, USA",
+				"n": "Indiana",
+				"lat": 40.267194,
+				"lng": -86.134902
+			},
+			{
+				"id": 165,
+				"pid": 164,
+				"t": "Indianapolis, IN, USA",
+				"n": "Indianapolis",
+				"lat": 39.768403,
+				"lng": -86.158068
+			},
+			{
+				"id": 526,
+				"pid": 255,
+				"t": "Indonesia",
+				"n": "Indonesia",
+				"lat": -0.789275,
+				"lng": 113.921327
+			},
+			{
+				"id": 17,
+				"pid": 9,
+				"t": "Innisfail QLD 4860, Australia",
+				"n": "Innisfail",
+				"lat": -17.524681,
+				"lng": 146.032329
+			},
+			{
+				"id": 397,
+				"pid": 31,
+				"t": "Iowa, USA",
+				"n": "Iowa",
+				"lat": 41.878003,
+				"lng": -93.097702
+			},
+			{
+				"id": 578,
+				"pid": 60,
+				"t": "Ireland",
+				"n": "Ireland",
+				"lat": 53.41291,
+				"lng": -8.24389
+			},
+			{
+				"id": 529,
+				"pid": 528,
+				"t": "Israel",
+				"n": "Israel",
+				"lat": 31.046051,
+				"lng": 34.851612
+			},
+			{
+				"id": 78,
+				"pid": 60,
+				"t": "Italy",
+				"n": "Italy",
+				"lat": 41.87194,
+				"lng": 12.56738
+			},
+			{
+				"id": 414,
+				"pid": 413,
+				"t": "Jackson, MS, USA",
+				"n": "Jackson",
+				"lat": 32.298757,
+				"lng": -90.18481
+			},
+			{
+				"id": 234,
+				"pid": 74,
+				"t": "Jacksonville, FL, USA",
+				"n": "Jacksonville",
+				"lat": 30.332184,
+				"lng": -81.655651
+			},
+			{
+				"id": 488,
+				"pid": 151,
+				"t": "Janesville, WI, USA",
+				"n": "Janesville",
+				"lat": 42.682789,
+				"lng": -89.018722
+			},
+			{
+				"id": 256,
+				"pid": 255,
+				"t": "Japan",
+				"n": "Japan",
+				"lat": 36.204824,
+				"lng": 138.252924
+			},
+			{
+				"id": 300,
+				"pid": 289,
+				"t": "Jefferson County, MO, USA",
+				"n": "Jefferson County",
+				"lat": 38.23103,
+				"lng": -90.525782
+			},
+			{
+				"id": 294,
+				"pid": 293,
+				"t": "Jersey City, NJ, USA",
+				"n": "Jersey City",
+				"lat": 40.728157,
+				"lng": -74.077642
+			},
+			{
+				"id": 536,
+				"pid": 537,
+				"t": "Joensuu, Finland",
+				"n": "Joensuu",
+				"lat": 62.601016,
+				"lng": 29.763572
+			},
+			{
+				"id": 472,
+				"pid": 447,
+				"t": "Johnson County, KS, USA",
+				"n": "Johnson County",
+				"lat": 38.845412,
+				"lng": -94.852064
+			},
+			{
+				"id": 345,
+				"pid": 63,
+				"t": "Josephine County, OR, USA",
+				"n": "Josephine County",
+				"lat": 42.344757,
+				"lng": -123.456874
+			},
+			{
+				"id": 505,
+				"pid": 276,
+				"t": "Juneau, AK, USA",
+				"n": "Juneau",
+				"lat": 58.301944,
+				"lng": -134.419722
+			},
+			{
+				"id": 532,
+				"pid": 530,
+				"t": "Jyväskylä, Finland",
+				"n": "Jyväskylä",
+				"lat": 62.242603,
+				"lng": 25.747257
+			},
+			{
+				"id": 258,
+				"pid": 257,
+				"t": "Kakegawa, Shizuoka Prefecture, Japan",
+				"n": "Kakegawa",
+				"lat": 34.768767,
+				"lng": 137.998168
+			},
+			{
+				"id": 447,
+				"pid": 31,
+				"t": "Kansas, USA",
+				"n": "Kansas",
+				"lat": 39.011902,
+				"lng": -98.484246
+			},
+			{
+				"id": 291,
+				"pid": 289,
+				"t": "Kansas City, MO, USA",
+				"n": "Kansas City",
+				"lat": 39.099727,
+				"lng": -94.578567
+			},
+			{
+				"id": 477,
+				"pid": 475,
+				"t": "Kaunas, Lithuania",
+				"n": "Kaunas",
+				"lat": 54.898521,
+				"lng": 23.903596
+			},
+			{
+				"id": 198,
+				"pid": 31,
+				"t": "Kentucky, USA",
+				"n": "Kentucky",
+				"lat": 37.839333,
+				"lng": -84.270018
+			},
+			{
+				"id": 392,
+				"pid": 99,
+				"t": "Kenya",
+				"n": "Kenya",
+				"lat": -0.023559,
+				"lng": 37.906193
+			},
+			{
+				"id": 570,
+				"pid": 276,
+				"t": "Ketchikan, AK 99901, USA",
+				"n": "Ketchikan",
+				"lat": 55.342222,
+				"lng": -131.646111
+			},
+			{
+				"id": 279,
+				"pid": 278,
+				"t": "Ketchum, ID, USA",
+				"n": "Ketchum",
+				"lat": 43.68074,
+				"lng": -114.363662
+			},
+			{
+				"id": 18,
+				"pid": 9,
+				"t": "Kilcoy QLD 4515, Australia",
+				"n": "Kilcoy",
+				"lat": -26.942995,
+				"lng": 152.565245
+			},
+			{
+				"id": 574,
+				"pid": 46,
+				"t": "Kingston, ON, Canada",
+				"n": "Kingston",
+				"lat": 44.231172,
+				"lng": -76.485954
+			},
+			{
+				"id": 478,
+				"pid": 475,
+				"t": "Klaipėda, Lithuania",
+				"n": "Klaipėda",
+				"lat": 55.703295,
+				"lng": 21.144279
+			},
+			{
+				"id": 344,
+				"pid": 63,
+				"t": "Klamath Falls, OR, USA",
+				"n": "Klamath Falls",
+				"lat": 42.224867,
+				"lng": -121.78167
+			},
+			{
+				"id": 535,
+				"pid": 530,
+				"t": "Kuopio, Finland",
+				"n": "Kuopio",
+				"lat": 62.89797,
+				"lng": 27.678172
+			},
+			{
+				"id": 329,
+				"pid": 63,
+				"t": "La Grande, OR 97850, USA",
+				"n": "La Grande",
+				"lat": 45.324577,
+				"lng": -118.087719
+			},
+			{
+				"id": 307,
+				"pid": 67,
+				"t": "Laguna Beach, CA, USA",
+				"n": "Laguna Beach",
+				"lat": 33.542248,
+				"lng": -117.78311
+			},
+			{
+				"id": 287,
+				"pid": 135,
+				"t": "Lansing, MI, USA",
+				"n": "Lansing",
+				"lat": 42.732535,
+				"lng": -84.555535
+			},
+			{
+				"id": 73,
+				"pid": 71,
+				"t": "Las Vegas, NV, USA",
+				"n": "Las Vegas",
+				"lat": 36.114646,
+				"lng": -115.172816
+			},
+			{
+				"id": 235,
+				"pid": 60,
+				"t": "Latvia",
+				"n": "Latvia",
+				"lat": 56.879635,
+				"lng": 24.603189
+			},
+			{
+				"id": 223,
+				"pid": 221,
+				"t": "Launceston TAS, Australia",
+				"n": "Launceston",
+				"lat": -41.426181,
+				"lng": 147.112468
+			},
+			{
+				"id": 215,
+				"pid": 133,
+				"t": "Laurel, MD, USA",
+				"n": "Laurel",
+				"lat": 39.099275,
+				"lng": -76.848306
+			},
+			{
+				"id": 58,
+				"pid": 54,
+				"t": "Laval, QC, Canada",
+				"n": "Laval",
+				"lat": 45.606649,
+				"lng": -73.712409
+			},
+			{
+				"id": 523,
+				"pid": 78,
+				"t": "Lazio, Italy",
+				"n": "Lazio",
+				"lat": 41.655242,
+				"lng": 12.989615
+			},
+			{
+				"id": 511,
+				"pid": 520,
+				"t": "73100 Lecce, Province of Lecce, Italy",
+				"n": "Lecce",
+				"lat": 40.351515,
+				"lng": 18.175016
+			},
+			{
+				"id": 207,
+				"pid": 198,
+				"t": "Lexington, KY, USA",
+				"n": "Lexington",
+				"lat": 38.040584,
+				"lng": -84.503716
+			},
+			{
+				"id": 577,
+				"pid": 576,
+				"t": "Lincoln, NE, USA",
+				"n": "Lincoln",
+				"lat": 40.825763,
+				"lng": -96.685198
+			},
+			{
+				"id": 346,
+				"pid": 63,
+				"t": "Lincoln County, OR, USA",
+				"n": "Lincoln County",
+				"lat": 44.609549,
+				"lng": -123.942359
+			},
+			{
+				"id": 347,
+				"pid": 63,
+				"t": "Linn County, OR, USA",
+				"n": "Linn County",
+				"lat": 44.409977,
+				"lng": -122.53401
+			},
+			{
+				"id": 475,
+				"pid": 60,
+				"t": "Lithuania",
+				"n": "Lithuania",
+				"lat": 55.169438,
+				"lng": 23.881275
+			},
+			{
+				"id": 240,
+				"pid": 239,
+				"t": "Little Rock, AR, USA",
+				"n": "Little Rock",
+				"lat": 34.746481,
+				"lng": -92.289595
+			},
+			{
+				"id": 507,
+				"pid": 67,
+				"t": "Livermore, CA, USA",
+				"n": "Livermore",
+				"lat": 37.681874,
+				"lng": -121.768009
+			},
+			{
+				"id": 513,
+				"pid": 67,
+				"t": "Lodi, CA, USA",
+				"n": "Lodi",
+				"lat": 38.134148,
+				"lng": -121.272219
+			},
+			{
+				"id": 519,
+				"pid": 78,
+				"t": "Lombardy, Italy",
+				"n": "Lombardy",
+				"lat": 45.479067,
+				"lng": 9.845243
+			},
+			{
+				"id": 600,
+				"pid": 46,
+				"t": "London, ON, Canada",
+				"n": "London",
+				"lat": 42.984923,
+				"lng": -81.245277
+			},
+			{
+				"id": 509,
+				"pid": 67,
+				"t": "Long Beach, CA, USA",
+				"n": "Long Beach",
+				"lat": 33.77005,
+				"lng": -118.19374
+			},
+			{
+				"id": 120,
+				"pid": 91,
+				"t": "Long Island, New York, USA",
+				"n": "Long Island",
+				"lat": 40.789142,
+				"lng": -73.13496
+			},
+			{
+				"id": 57,
+				"pid": 54,
+				"t": "Longueuil, QC, Canada",
+				"n": "Longueuil",
+				"lat": 45.536944,
+				"lng": -73.510713
+			},
+			{
+				"id": 457,
+				"pid": 65,
+				"t": "Longview, WA, USA",
+				"n": "Longview",
+				"lat": 46.138168,
+				"lng": -122.938167
+			},
+			{
+				"id": 154,
+				"pid": 67,
+				"t": "Los Angeles, CA, USA",
+				"n": "Los Angeles",
+				"lat": 34.052234,
+				"lng": -118.243685
+			},
+			{
+				"id": 242,
+				"pid": 31,
+				"t": "Louisiana, USA",
+				"n": "Louisiana",
+				"lat": 30.984298,
+				"lng": -91.962333
+			},
+			{
+				"id": 199,
+				"pid": 198,
+				"t": "Louisville, KY, USA",
+				"n": "Louisville",
+				"lat": 38.252665,
+				"lng": -85.758456
+			},
+			{
+				"id": 127,
+				"pid": 92,
+				"t": "Lowell, MA, USA",
+				"n": "Lowell",
+				"lat": 42.633425,
+				"lng": -71.316172
+			},
+			{
+				"id": 449,
+				"pid": 67,
+				"t": "Lower Lake, CA, USA",
+				"n": "Lower Lake",
+				"lat": 38.910455,
+				"lng": -122.610261
+			},
+			{
+				"id": 465,
+				"pid": 60,
+				"t": "Luxembourg",
+				"n": "Luxembourg",
+				"lat": 49.815273,
+				"lng": 6.129583
+			},
+			{
+				"id": 494,
+				"pid": 138,
+				"t": "Lynchburg, VA, USA",
+				"n": "Lynchburg",
+				"lat": 37.413754,
+				"lng": -79.142246
+			},
+			{
+				"id": 19,
+				"pid": 9,
+				"t": "Mackay QLD 4740, Australia",
+				"n": "Mackay",
+				"lat": -21.14121,
+				"lng": 149.185625
+			},
+			{
+				"id": 317,
+				"pid": 67,
+				"t": "Madera, CA, USA",
+				"n": "Madera",
+				"lat": 36.961336,
+				"lng": -120.060718
+			},
+			{
+				"id": 152,
+				"pid": 151,
+				"t": "Madison, WI, USA",
+				"n": "Madison",
+				"lat": 43.073052,
+				"lng": -89.40123
+			},
+			{
+				"id": 167,
+				"pid": 166,
+				"t": "Madrid, Spain",
+				"n": "Madrid",
+				"lat": 40.416775,
+				"lng": -3.70379
+			},
+			{
+				"id": 20,
+				"pid": 9,
+				"t": "Magnetic Island, Queensland, Australia",
+				"n": "Magnetic Island",
+				"lat": -19.135865,
+				"lng": 146.842356
+			},
+			{
+				"id": 558,
+				"pid": 31,
+				"t": "Maine, USA",
+				"n": "Maine",
+				"lat": 45.253783,
+				"lng": -69.445469
+			},
+			{
+				"id": 21,
+				"pid": 9,
+				"t": "Maleny QLD 4552, Australia",
+				"n": "Maleny",
+				"lat": -26.758137,
+				"lng": 152.852074
+			},
+			{
+				"id": 497,
+				"pid": 63,
+				"t": "Malheur County, OR, USA",
+				"n": "Malheur County",
+				"lat": 43.21716,
+				"lng": -117.579189
+			},
+			{
+				"id": 304,
+				"pid": 74,
+				"t": "Manatee County, FL, USA",
+				"n": "Manatee County",
+				"lat": 27.47992,
+				"lng": -82.345189
+			},
+			{
+				"id": 179,
+				"pid": 178,
+				"t": "Manchester, UK",
+				"n": "Manchester",
+				"lat": 53.479324,
+				"lng": -2.248485
+			},
+			{
+				"id": 33,
+				"pid": 32,
+				"t": "Manitoba, Canada",
+				"n": "Manitoba",
+				"lat": 53.760861,
+				"lng": -98.813876
+			},
+			{
+				"id": 470,
+				"pid": 168,
+				"t": "Mannheim, Germany",
+				"n": "Mannheim",
+				"lat": 49.487459,
+				"lng": 8.466039
+			},
+			{
+				"id": 544,
+				"pid": 78,
+				"t": "Marche, Italy",
+				"n": "Marche",
+				"lat": 43.505874,
+				"lng": 12.989615
+			},
+			{
+				"id": 250,
+				"pid": 67,
+				"t": "Marin County, CA, USA",
+				"n": "Marin County",
+				"lat": 38.083403,
+				"lng": -122.763304
+			},
+			{
+				"id": 501,
+				"pid": 92,
+				"t": "Martha's Vineyard, Massachusetts, USA",
+				"n": "Martha's Vineyard",
+				"lat": 41.380498,
+				"lng": -70.645473
+			},
+			{
+				"id": 22,
+				"pid": 9,
+				"t": "Maryborough QLD 4650, Australia",
+				"n": "Maryborough",
+				"lat": -25.537122,
+				"lng": 152.701553
+			},
+			{
+				"id": 133,
+				"pid": 31,
+				"t": "Maryland, USA",
+				"n": "Maryland",
+				"lat": 39.045755,
+				"lng": -76.641271
+			},
+			{
+				"id": 438,
+				"pid": 65,
+				"t": "Mason County, WA, USA",
+				"n": "Mason County",
+				"lat": 47.425115,
+				"lng": -123.195138
+			},
+			{
+				"id": 92,
+				"pid": 31,
+				"t": "Massachusetts, USA",
+				"n": "Massachusetts",
+				"lat": 42.407211,
+				"lng": -71.382437
+			},
+			{
+				"id": 352,
+				"pid": 63,
+				"t": "Medford, OR, USA",
+				"n": "Medford",
+				"lat": 42.326515,
+				"lng": -122.875595
+			},
+			{
+				"id": 303,
+				"pid": 74,
+				"t": "Melbourne, FL, USA",
+				"n": "Melbourne",
+				"lat": 28.083627,
+				"lng": -80.608109
+			},
+			{
+				"id": 323,
+				"pid": 322,
+				"t": "Melbourne VIC, Australia",
+				"n": "Melbourne",
+				"lat": -37.814107,
+				"lng": 144.96328
+			},
+			{
+				"id": 160,
+				"pid": 67,
+				"t": "Mendocino, CA, USA",
+				"n": "Mendocino",
+				"lat": 39.307674,
+				"lng": -123.799459
+			},
+			{
+				"id": 318,
+				"pid": 67,
+				"t": "Mendocino County, CA, USA",
+				"n": "Mendocino County",
+				"lat": 39.550019,
+				"lng": -123.438353
+			},
+			{
+				"id": 456,
+				"pid": 67,
+				"t": "Merced, CA, USA",
+				"n": "Merced",
+				"lat": 37.302163,
+				"lng": -120.482968
+			},
+			{
+				"id": 233,
+				"pid": 227,
+				"t": "Meriden, CT, USA",
+				"n": "Meriden",
+				"lat": 41.538153,
+				"lng": -72.807043
+			},
+			{
+				"id": 611,
+				"pid": 161,
+				"t": "Metz, France",
+				"n": "Metz",
+				"lat": 49.119309,
+				"lng": 6.175716
+			},
+			{
+				"id": 103,
+				"pid": 30,
+				"t": "Mexico",
+				"n": "Mexico",
+				"lat": 23.634501,
+				"lng": -102.552784
+			},
+			{
+				"id": 104,
+				"pid": 103,
+				"t": "Mexico City, Federal District, Mexico",
+				"n": "Mexico City",
+				"lat": 19.432608,
+				"lng": -99.133208
+			},
+			{
+				"id": 75,
+				"pid": 74,
+				"t": "Miami, FL, USA",
+				"n": "Miami",
+				"lat": 25.788969,
+				"lng": -80.226439
+			},
+			{
+				"id": 135,
+				"pid": 31,
+				"t": "Michigan, USA",
+				"n": "Michigan",
+				"lat": 44.314844,
+				"lng": -85.602364
+			},
+			{
+				"id": 528,
+				"pid": 255,
+				"t": "Middle East",
+				"n": "Middle East",
+				"lat": 29.298528,
+				"lng": 42.55096
+			},
+			{
+				"id": 571,
+				"pid": 92,
+				"t": "Middlesex County, MA, USA",
+				"n": "Middlesex County",
+				"lat": 42.467206,
+				"lng": -71.287421
+			},
+			{
+				"id": 554,
+				"pid": 227,
+				"t": "Middlesex County, CT, USA",
+				"n": "Middlesex County",
+				"lat": 41.469851,
+				"lng": -72.473153
+			},
+			{
+				"id": 247,
+				"pid": 519,
+				"t": "Milan, Italy",
+				"n": "Milan",
+				"lat": 45.465422,
+				"lng": 9.185924
+			},
+			{
+				"id": 332,
+				"pid": 63,
+				"t": "Milton-Freewater, OR 97862, USA",
+				"n": "Milton-Freewater",
+				"lat": 45.932635,
+				"lng": -118.387743
+			},
+			{
+				"id": 153,
+				"pid": 151,
+				"t": "Milwaukee, WI, USA",
+				"n": "Milwaukee",
+				"lat": 43.038902,
+				"lng": -87.906474
+			},
+			{
+				"id": 150,
+				"pid": 148,
+				"t": "Minneapolis, MN, USA",
+				"n": "Minneapolis",
+				"lat": 44.983334,
+				"lng": -93.26667
+			},
+			{
+				"id": 148,
+				"pid": 31,
+				"t": "Minnesota, USA",
+				"n": "Minnesota",
+				"lat": 46.729553,
+				"lng": -94.6859
+			},
+			{
+				"id": 608,
+				"pid": 61,
+				"t": "Miskolc, Hungary",
+				"n": "Miskolc",
+				"lat": 48.103477,
+				"lng": 20.778438
+			},
+			{
+				"id": 482,
+				"pid": 46,
+				"t": "Mississauga, ON, Canada",
+				"n": "Mississauga",
+				"lat": 43.589045,
+				"lng": -79.64412
+			},
+			{
+				"id": 413,
+				"pid": 31,
+				"t": "Mississippi, USA",
+				"n": "Mississippi",
+				"lat": 32.354668,
+				"lng": -89.398528
+			},
+			{
+				"id": 565,
+				"pid": 301,
+				"t": "Missoula, MT, USA",
+				"n": "Missoula",
+				"lat": 46.878718,
+				"lng": -113.996586
+			},
+			{
+				"id": 289,
+				"pid": 31,
+				"t": "Missouri, USA",
+				"n": "Missouri",
+				"lat": 37.964253,
+				"lng": -91.831833
+			},
+			{
+				"id": 319,
+				"pid": 67,
+				"t": "Modesto, CA, USA",
+				"n": "Modesto",
+				"lat": 37.639097,
+				"lng": -120.996878
+			},
+			{
+				"id": 353,
+				"pid": 67,
+				"t": "Modoc County, CA, USA",
+				"n": "Modoc County",
+				"lat": 41.456516,
+				"lng": -120.629366
+			},
+			{
+				"id": 314,
+				"pid": 313,
+				"t": "Molfetta BA, Italy",
+				"n": "Molfetta",
+				"lat": 41.202777,
+				"lng": 16.598719
+			},
+			{
+				"id": 598,
+				"pid": 597,
+				"t": "Moncton, NB, Canada",
+				"n": "Moncton",
+				"lat": 46.087817,
+				"lng": -64.778231
+			},
+			{
+				"id": 485,
+				"pid": 105,
+				"t": "Monroe County, PA, USA",
+				"n": "Monroe County",
+				"lat": 41.045838,
+				"lng": -75.247906
+			},
+			{
+				"id": 301,
+				"pid": 31,
+				"t": "Montana, USA",
+				"n": "Montana",
+				"lat": 46.879682,
+				"lng": -110.362566
+			},
+			{
+				"id": 612,
+				"pid": 67,
+				"t": "Monterey, CA, USA",
+				"n": "Monterey",
+				"lat": 36.600238,
+				"lng": -121.894676
+			},
+			{
+				"id": 560,
+				"pid": 67,
+				"t": "Monterey Park, CA, USA",
+				"n": "Monterey Park",
+				"lat": 34.062511,
+				"lng": -118.122848
+			},
+			{
+				"id": 185,
+				"pid": 133,
+				"t": "Montgomery, MD, USA",
+				"n": "Montgomery",
+				"lat": 39.154743,
+				"lng": -77.240515
+			},
+			{
+				"id": 495,
+				"pid": 237,
+				"t": "Montgomery, AL, USA",
+				"n": "Montgomery",
+				"lat": 32.366805,
+				"lng": -86.299969
+			},
+			{
+				"id": 56,
+				"pid": 54,
+				"t": "Montreal, QC, Canada",
+				"n": "Montreal",
+				"lat": 45.50867,
+				"lng": -73.553992
+			},
+			{
+				"id": 591,
+				"pid": 322,
+				"t": "Mornington Peninsula, VIC, Australia",
+				"n": "Mornington Peninsula Shire",
+				"lat": -38.285405,
+				"lng": 145.093449
+			},
+			{
+				"id": 556,
+				"pid": 67,
+				"t": "Mountain View, CA, USA",
+				"n": "Mountain View",
+				"lat": 37.386052,
+				"lng": -122.083851
+			},
+			{
+				"id": 549,
+				"pid": 542,
+				"t": "Mugello, 50032 Borgo San Lorenzo FI, Italy",
+				"n": "Mugello",
+				"lat": 43.950026,
+				"lng": 11.399986
+			},
+			{
+				"id": 393,
+				"pid": 392,
+				"t": "Nairobi, Kenya",
+				"n": "Nairobi",
+				"lat": -1.292066,
+				"lng": 36.821946
+			},
+			{
+				"id": 446,
+				"pid": 161,
+				"t": "Nancy, France",
+				"n": "Nancy",
+				"lat": 48.692054,
+				"lng": 6.184417
+			},
+			{
+				"id": 441,
+				"pid": 161,
+				"t": "Nantes, France",
+				"n": "Nantes",
+				"lat": 47.218371,
+				"lng": -1.553621
+			},
+			{
+				"id": 128,
+				"pid": 92,
+				"t": "Nantucket, MA, USA",
+				"n": "Nantucket",
+				"lat": 41.28347,
+				"lng": -70.099451
+			},
+			{
+				"id": 175,
+				"pid": 174,
+				"t": "Nashville, TN, USA",
+				"n": "Nashville",
+				"lat": 36.166667,
+				"lng": -86.783333
+			},
+			{
+				"id": 200,
+				"pid": 84,
+				"t": "Nassau, NY, USA",
+				"n": "Nassau",
+				"lat": 40.654615,
+				"lng": -73.559413
+			},
+			{
+				"id": 576,
+				"pid": 31,
+				"t": "Nebraska, USA",
+				"n": "Nebraska",
+				"lat": 41.492537,
+				"lng": -99.901813
+			},
+			{
+				"id": 71,
+				"pid": 31,
+				"t": "Nevada, USA",
+				"n": "Nevada",
+				"lat": 38.80261,
+				"lng": -116.419389
+			},
+			{
+				"id": 548,
+				"pid": 67,
+				"t": "Nevada County, CA, USA",
+				"n": "Nevada County",
+				"lat": 39.134667,
+				"lng": -121.171039
+			},
+			{
+				"id": 232,
+				"pid": 227,
+				"t": "New Britain, CT, USA",
+				"n": "New Britain",
+				"lat": 41.66121,
+				"lng": -72.779542
+			},
+			{
+				"id": 597,
+				"pid": 32,
+				"t": "New Brunswick, Canada",
+				"n": "New Brunswick",
+				"lat": 46.565316,
+				"lng": -66.461916
+			},
+			{
+				"id": 210,
+				"pid": 32,
+				"t": "Newfoundland and Labrador, Canada",
+				"n": "Newfoundland and Labrador",
+				"lat": 53.135509,
+				"lng": -57.660436
+			},
+			{
+				"id": 229,
+				"pid": 227,
+				"t": "New Haven, CT, USA",
+				"n": "New Haven",
+				"lat": 41.308274,
+				"lng": -72.927883
+			},
+			{
+				"id": 293,
+				"pid": 31,
+				"t": "New Jersey, USA",
+				"n": "New Jersey",
+				"lat": 40.058324,
+				"lng": -74.405661
+			},
+			{
+				"id": 80,
+				"pid": 31,
+				"t": "New Mexico, USA",
+				"n": "New Mexico",
+				"lat": 34.51994,
+				"lng": -105.87009
+			},
+			{
+				"id": 243,
+				"pid": 242,
+				"t": "New Orleans, LA, USA",
+				"n": "New Orleans",
+				"lat": 29.951066,
+				"lng": -90.071532
+			},
+			{
+				"id": 357,
+				"pid": 63,
+				"t": "Newport, OR, USA",
+				"n": "Newport",
+				"lat": 44.636784,
+				"lng": -124.05345
+			},
+			{
+				"id": 113,
+				"pid": 2,
+				"t": "New South Wales, Australia",
+				"n": "New South Wales",
+				"lat": -31.253218,
+				"lng": 146.921099
+			},
+			{
+				"id": 84,
+				"pid": 31,
+				"t": "New York, USA",
+				"n": "New York",
+				"lat": 43.299428,
+				"lng": -74.217933
+			},
+			{
+				"id": 91,
+				"pid": 84,
+				"t": "New York, NY, USA",
+				"n": "New York",
+				"lat": 40.714353,
+				"lng": -74.005973
+			},
+			{
+				"id": 28,
+				"pid": 1,
+				"t": "New Zealand",
+				"n": "New Zealand",
+				"lat": -40.900557,
+				"lng": 174.885971
+			},
+			{
+				"id": 546,
+				"pid": 46,
+				"t": "Niagara Regional Municipality, ON, Canada",
+				"n": "Niagara Regional Municipality",
+				"lat": 43.058164,
+				"lng": -79.290213
+			},
+			{
+				"id": 541,
+				"pid": 161,
+				"t": "Nice, France",
+				"n": "Nice",
+				"lat": 43.710173,
+				"lng": 7.261953
+			},
+			{
+				"id": 30,
+				"pid": 0,
+				"t": "North America",
+				"n": "North America",
+				"lat": 54.525961,
+				"lng": -105.255119
+			},
+			{
+				"id": 140,
+				"pid": 31,
+				"t": "North Carolina, USA",
+				"n": "North Carolina",
+				"lat": 35.759573,
+				"lng": -79.0193
+			},
+			{
+				"id": 602,
+				"pid": 31,
+				"t": "North Dakota, USA",
+				"n": "North Dakota",
+				"lat": 47.551493,
+				"lng": -101.002012
+			},
+			{
+				"id": 373,
+				"pid": 2,
+				"t": "Northern Territory, Australia",
+				"n": "Northern Territory",
+				"lat": -19.491411,
+				"lng": 132.55096
+			},
+			{
+				"id": 537,
+				"pid": 530,
+				"t": "North Karelia, Finland",
+				"n": "North Karelia",
+				"lat": 62.806208,
+				"lng": 30.155389
+			},
+			{
+				"id": 610,
+				"pid": 67,
+				"t": "Norwalk, CA, USA",
+				"n": "Norwalk",
+				"lat": 33.902237,
+				"lng": -118.081733
+			},
+			{
+				"id": 83,
+				"pid": 60,
+				"t": "Norway",
+				"n": "Norway",
+				"lat": 60.472024,
+				"lng": 8.468946
+			},
+			{
+				"id": 52,
+				"pid": 32,
+				"t": "Nova Scotia, Canada",
+				"n": "Nova Scotia",
+				"lat": 44.681987,
+				"lng": -63.744311
+			},
+			{
+				"id": 69,
+				"pid": 67,
+				"t": "Oakland, CA, USA",
+				"n": "Oakland",
+				"lat": 37.804364,
+				"lng": -122.271114
+			},
+			{
+				"id": 341,
+				"pid": 63,
+				"t": "Oakridge, OR, USA",
+				"n": "Oakridge",
+				"lat": 43.746512,
+				"lng": -122.461716
+			},
+			{
+				"id": 461,
+				"pid": 46,
+				"t": "Oakville, ON, Canada",
+				"n": "Oakville",
+				"lat": 43.467517,
+				"lng": -79.687666
+			},
+			{
+				"id": 410,
+				"pid": 74,
+				"t": "Ocala, FL, USA",
+				"n": "Ocala",
+				"lat": 29.187199,
+				"lng": -82.140092
+			},
+			{
+				"id": 430,
+				"pid": 133,
+				"t": "Ocean City, MD, USA",
+				"n": "Ocean City",
+				"lat": 38.336503,
+				"lng": -75.084906
+			},
+			{
+				"id": 1,
+				"pid": 0,
+				"t": "Oceania",
+				"n": "Oceania",
+				"lat": -22.73591,
+				"lng": 140.018765
+			},
+			{
+				"id": 170,
+				"pid": 31,
+				"t": "Ohio, USA",
+				"n": "Ohio",
+				"lat": 40.417287,
+				"lng": -82.907123
+			},
+			{
+				"id": 411,
+				"pid": 74,
+				"t": "Okaloosa County, FL, USA",
+				"n": "Okaloosa County",
+				"lat": 30.57734,
+				"lng": -86.661108
+			},
+			{
+				"id": 376,
+				"pid": 31,
+				"t": "Oklahoma, USA",
+				"n": "Oklahoma",
+				"lat": 35.007752,
+				"lng": -97.092877
+			},
+			{
+				"id": 377,
+				"pid": 376,
+				"t": "Oklahoma City, OK, USA",
+				"n": "Oklahoma City",
+				"lat": 35.46756,
+				"lng": -97.516428
+			},
+			{
+				"id": 261,
+				"pid": 65,
+				"t": "Olympia, WA, USA",
+				"n": "Olympia",
+				"lat": 47.037874,
+				"lng": -122.900695
+			},
+			{
+				"id": 259,
+				"pid": 257,
+				"t": "Omaezaki, Shizuoka Prefecture, Japan",
+				"n": "Omaezaki",
+				"lat": 34.637987,
+				"lng": 138.128127
+			},
+			{
+				"id": 342,
+				"pid": 63,
+				"t": "Ontario, OR 97914, USA",
+				"n": "Ontario",
+				"lat": 44.026553,
+				"lng": -116.962938
+			},
+			{
+				"id": 46,
+				"pid": 32,
+				"t": "Ontario, Canada",
+				"n": "Ontario",
+				"lat": 51.253775,
+				"lng": -85.323214
+			},
+			{
+				"id": 156,
+				"pid": 67,
+				"t": "Orange County, CA, USA",
+				"n": "Orange County",
+				"lat": 33.717471,
+				"lng": -117.831143
+			},
+			{
+				"id": 422,
+				"pid": 415,
+				"t": "Orange County, VT, USA",
+				"n": "Orange County",
+				"lat": 44.001419,
+				"lng": -72.400371
+			},
+			{
+				"id": 63,
+				"pid": 31,
+				"t": "Oregon, USA",
+				"n": "Oregon",
+				"lat": 43.804133,
+				"lng": -120.554201
+			},
+			{
+				"id": 281,
+				"pid": 74,
+				"t": "Orlando, FL, USA",
+				"n": "Orlando",
+				"lat": 28.538335,
+				"lng": -81.379237
+			},
+			{
+				"id": 308,
+				"pid": 151,
+				"t": "Oshkosh, WI, USA",
+				"n": "Oshkosh",
+				"lat": 44.024706,
+				"lng": -88.542614
+			},
+			{
+				"id": 189,
+				"pid": 83,
+				"t": "Oslo, Norway",
+				"n": "Oslo",
+				"lat": 59.913869,
+				"lng": 10.752245
+			},
+			{
+				"id": 202,
+				"pid": 84,
+				"t": "Oswego, NY, USA",
+				"n": "Oswego",
+				"lat": 43.455346,
+				"lng": -76.510497
+			},
+			{
+				"id": 47,
+				"pid": 46,
+				"t": "Ottawa, ON, Canada",
+				"n": "Ottawa",
+				"lat": 45.42153,
+				"lng": -75.697193
+			},
+			{
+				"id": 533,
+				"pid": 530,
+				"t": "Oulu, Finland",
+				"n": "Oulu",
+				"lat": 65.012089,
+				"lng": 25.465077
+			},
+			{
+				"id": 245,
+				"pid": 67,
+				"t": "Oxnard, CA, USA",
+				"n": "Oxnard",
+				"lat": 34.197505,
+				"lng": -119.177052
+			},
+			{
+				"id": 580,
+				"pid": 65,
+				"t": "Pacific County, WA, USA",
+				"n": "Pacific County",
+				"lat": 46.518082,
+				"lng": -123.826451
+			},
+			{
+				"id": 516,
+				"pid": 170,
+				"t": "Painesville Township, OH, USA",
+				"n": "Painesville Township",
+				"lat": 41.734069,
+				"lng": -81.242024
+			},
+			{
+				"id": 399,
+				"pid": 521,
+				"t": "Palermo, Italy",
+				"n": "Palermo",
+				"lat": 38.115688,
+				"lng": 13.361267
+			},
+			{
+				"id": 454,
+				"pid": 67,
+				"t": "Palos Verdes Peninsula, CA, USA",
+				"n": "Palos Verdes Peninsula",
+				"lat": 33.768384,
+				"lng": -118.349216
+			},
+			{
+				"id": 499,
+				"pid": 67,
+				"t": "Palo Verde Valley, California 92266, USA",
+				"n": "Palo Verde Valley",
+				"lat": 33.357531,
+				"lng": -114.70857
+			},
+			{
+				"id": 366,
+				"pid": 166,
+				"t": "Pamplona, Navarre, Spain",
+				"n": "Pamplona",
+				"lat": 42.812526,
+				"lng": -1.645774
+			},
+			{
+				"id": 406,
+				"pid": 74,
+				"t": "Panama City, FL, USA",
+				"n": "Panama City",
+				"lat": 30.158813,
+				"lng": -85.660206
+			},
+			{
+				"id": 479,
+				"pid": 475,
+				"t": "Panevėžys, Lithuania",
+				"n": "Panevėžys",
+				"lat": 55.734792,
+				"lng": 24.357477
+			},
+			{
+				"id": 162,
+				"pid": 161,
+				"t": "Paris, France",
+				"n": "Paris",
+				"lat": 48.856614,
+				"lng": 2.352222
+			},
+			{
+				"id": 607,
+				"pid": 61,
+				"t": "Pécs, Hungary",
+				"n": "Pécs",
+				"lat": 46.072735,
+				"lng": 18.232266
+			},
+			{
+				"id": 337,
+				"pid": 63,
+				"t": "Pendleton, OR 97801, USA",
+				"n": "Pendleton",
+				"lat": 45.672075,
+				"lng": -118.788597
+			},
+			{
+				"id": 105,
+				"pid": 31,
+				"t": "Pennsylvania, USA",
+				"n": "Pennsylvania",
+				"lat": 41.203322,
+				"lng": -77.194525
+			},
+			{
+				"id": 412,
+				"pid": 74,
+				"t": "Pensacola, FL, USA",
+				"n": "Pensacola",
+				"lat": 30.421309,
+				"lng": -87.216915
+			},
+			{
+				"id": 575,
+				"pid": 145,
+				"t": "Peoria, IL, USA",
+				"n": "Peoria",
+				"lat": 40.693649,
+				"lng": -89.588986
+			},
+			{
+				"id": 6,
+				"pid": 5,
+				"t": "Perth WA, Australia",
+				"n": "Perth",
+				"lat": -31.953004,
+				"lng": 115.857469
+			},
+			{
+				"id": 496,
+				"pid": 67,
+				"t": "Petaluma, CA, USA",
+				"n": "Petaluma",
+				"lat": 38.232417,
+				"lng": -122.636652
+			},
+			{
+				"id": 106,
+				"pid": 105,
+				"t": "Philadelphia, PA, USA",
+				"n": "Philadelphia",
+				"lat": 39.952335,
+				"lng": -75.163789
+			},
+			{
+				"id": 110,
+				"pid": 109,
+				"t": "Philippines",
+				"n": "Philippines",
+				"lat": 12.879721,
+				"lng": 121.774017
+			},
+			{
+				"id": 98,
+				"pid": 97,
+				"t": "Phoenix, AZ, USA",
+				"n": "Phoenix",
+				"lat": 33.448377,
+				"lng": -112.074037
+			},
+			{
+				"id": 522,
+				"pid": 78,
+				"t": "Piedmont, Italy",
+				"n": "Piedmont",
+				"lat": 45.052237,
+				"lng": 7.515389
+			},
+			{
+				"id": 335,
+				"pid": 65,
+				"t": "Pierce County, WA, USA",
+				"n": "Pierce County",
+				"lat": 47.067588,
+				"lng": -122.129527
+			},
+			{
+				"id": 180,
+				"pid": 74,
+				"t": "Pinellas, FL, USA",
+				"n": "Pinellas",
+				"lat": 27.876394,
+				"lng": -82.777858
+			},
+			{
+				"id": 502,
+				"pid": 67,
+				"t": "Pinole, CA, USA",
+				"n": "Pinole",
+				"lat": 38.004367,
+				"lng": -122.298859
+			},
+			{
+				"id": 545,
+				"pid": 542,
+				"t": "57025 Piombino, Province of Livorno, Italy",
+				"n": "Piombino",
+				"lat": 42.925634,
+				"lng": 10.525889
+			},
+			{
+				"id": 206,
+				"pid": 105,
+				"t": "Pittsburgh, PA, USA",
+				"n": "Pittsburgh",
+				"lat": 40.440625,
+				"lng": -79.995886
+			},
+			{
+				"id": 296,
+				"pid": 67,
+				"t": "Placer County, CA, USA",
+				"n": "Placer County",
+				"lat": 39.091575,
+				"lng": -120.803947
+			},
+			{
+				"id": 320,
+				"pid": 67,
+				"t": "Plumas County, CA, USA",
+				"n": "Plumas County",
+				"lat": 39.992683,
+				"lng": -120.803947
+			},
+			{
+				"id": 434,
+				"pid": 60,
+				"t": "Poland",
+				"n": "Poland",
+				"lat": 51.919438,
+				"lng": 19.145136
+			},
+			{
+				"id": 506,
+				"pid": 74,
+				"t": "Pompano Beach, FL, USA",
+				"n": "Pompano Beach",
+				"lat": 26.23786,
+				"lng": -80.124767
+			},
+			{
+				"id": 64,
+				"pid": 63,
+				"t": "Portland, OR, USA",
+				"n": "Portland",
+				"lat": 45.523452,
+				"lng": -122.676207
+			},
+			{
+				"id": 390,
+				"pid": 389,
+				"t": "Porto Alegre - RS, Brazil",
+				"n": "Porto Alegre",
+				"lat": -30.034647,
+				"lng": -51.217658
+			},
+			{
+				"id": 588,
+				"pid": 587,
+				"t": "Prague, Czechia",
+				"n": "Prague",
+				"lat": 50.075538,
+				"lng": 14.4378
+			},
+			{
+				"id": 439,
+				"pid": 32,
+				"t": "Prince Edward Island, Canada",
+				"n": "Prince Edward Island",
+				"lat": 46.510712,
+				"lng": -63.416814
+			},
+			{
+				"id": 271,
+				"pid": 270,
+				"t": "Providence, RI, USA",
+				"n": "Providence",
+				"lat": 41.823989,
+				"lng": -71.412834
+			},
+			{
+				"id": 466,
+				"pid": 522,
+				"t": "Province of Cuneo, Italy",
+				"n": "Province of Cuneo",
+				"lat": 44.597031,
+				"lng": 7.611422
+			},
+			{
+				"id": 311,
+				"pid": 138,
+				"t": "Pulaski, VA, USA",
+				"n": "Pulaski",
+				"lat": 37.047898,
+				"lng": -80.779793
+			},
+			{
+				"id": 55,
+				"pid": 54,
+				"t": "Quebec City, QC, Canada",
+				"n": "Quebec",
+				"lat": 46.803283,
+				"lng": -71.242796
+			},
+			{
+				"id": 54,
+				"pid": 32,
+				"t": "Quebec, Canada",
+				"n": "Quebec",
+				"lat": 52.939916,
+				"lng": -73.549136
+			},
+			{
+				"id": 428,
+				"pid": 133,
+				"t": "Queen Anne's County, MD, USA",
+				"n": "Queen Anne's County",
+				"lat": 39.026357,
+				"lng": -76.131995
+			},
+			{
+				"id": 118,
+				"pid": 91,
+				"t": "Queens, NY, USA",
+				"n": "Queens",
+				"lat": 40.728224,
+				"lng": -73.794852
+			},
+			{
+				"id": 9,
+				"pid": 2,
+				"t": "Queensland, Australia",
+				"n": "Queensland",
+				"lat": -20.917574,
+				"lng": 142.702796
+			},
+			{
+				"id": 601,
+				"pid": 151,
+				"t": "Racine, WI, USA",
+				"n": "Racine",
+				"lat": 42.726131,
+				"lng": -87.782852
+			},
+			{
+				"id": 310,
+				"pid": 138,
+				"t": "Radford, VA, USA",
+				"n": "Radford",
+				"lat": 37.131792,
+				"lng": -80.576448
+			},
+			{
+				"id": 272,
+				"pid": 140,
+				"t": "Raleigh, NC, USA",
+				"n": "Raleigh",
+				"lat": 35.77959,
+				"lng": -78.638179
+			},
+			{
+				"id": 251,
+				"pid": 67,
+				"t": "Redding, CA, USA",
+				"n": "Redding",
+				"lat": 40.58654,
+				"lng": -122.391675
+			},
+			{
+				"id": 343,
+				"pid": 63,
+				"t": "Redmond, OR 97756, USA",
+				"n": "Redmond",
+				"lat": 44.27262,
+				"lng": -121.173921
+			},
+			{
+				"id": 599,
+				"pid": 196,
+				"t": "Regina, SK, Canada",
+				"n": "Regina",
+				"lat": 50.445211,
+				"lng": -104.618894
+			},
+			{
+				"id": 72,
+				"pid": 71,
+				"t": "Reno, NV, USA",
+				"n": "Reno",
+				"lat": 39.529633,
+				"lng": -119.813803
+			},
+			{
+				"id": 270,
+				"pid": 31,
+				"t": "Rhode Island, USA",
+				"n": "Rhode Island",
+				"lat": 41.580095,
+				"lng": -71.477429
+			},
+			{
+				"id": 236,
+				"pid": 235,
+				"t": "Rīga, Latvia",
+				"n": "Rīga",
+				"lat": 56.949649,
+				"lng": 24.105186
+			},
+			{
+				"id": 381,
+				"pid": 67,
+				"t": "Rio Vista, CA, USA",
+				"n": "Rio Vista",
+				"lat": 38.15575,
+				"lng": -121.691344
+			},
+			{
+				"id": 386,
+				"pid": 67,
+				"t": "Riverside, CA, USA",
+				"n": "Riverside",
+				"lat": 33.953349,
+				"lng": -117.396156
+			},
+			{
+				"id": 309,
+				"pid": 138,
+				"t": "Roanoke, VA, USA",
+				"n": "Roanoke",
+				"lat": 37.27097,
+				"lng": -79.941427
+			},
+			{
+				"id": 569,
+				"pid": 148,
+				"t": "Rochester, MN, USA",
+				"n": "Rochester",
+				"lat": 44.012122,
+				"lng": -92.480199
+			},
+			{
+				"id": 184,
+				"pid": 84,
+				"t": "Rochester, NY, USA",
+				"n": "Rochester",
+				"lat": 43.16103,
+				"lng": -77.610922
+			},
+			{
+				"id": 23,
+				"pid": 9,
+				"t": "Rockhampton QLD, Australia",
+				"n": "Rockhampton",
+				"lat": -23.322212,
+				"lng": 150.512433
+			},
+			{
+				"id": 553,
+				"pid": 140,
+				"t": "Rocky Mount, NC, USA",
+				"n": "Rocky Mount",
+				"lat": 35.93821,
+				"lng": -77.790534
+			},
+			{
+				"id": 552,
+				"pid": 140,
+				"t": "Rocky Mount, NC, USA",
+				"n": "Rocky Mount",
+				"lat": 35.93821,
+				"lng": -77.790534
+			},
+			{
+				"id": 188,
+				"pid": 83,
+				"t": "Rogaland, Norway",
+				"n": "Rogaland",
+				"lat": 59.148954,
+				"lng": 6.014343
+			},
+			{
+				"id": 402,
+				"pid": 78,
+				"t": "Rome, Italy",
+				"n": "Rome",
+				"lat": 41.902783,
+				"lng": 12.496365
+			},
+			{
+				"id": 204,
+				"pid": 84,
+				"t": "Rome, NY, USA",
+				"n": "Rome",
+				"lat": 43.212847,
+				"lng": -75.45573
+			},
+			{
+				"id": 356,
+				"pid": 63,
+				"t": "Roseburg, OR, USA",
+				"n": "Roseburg",
+				"lat": 43.216505,
+				"lng": -123.341738
+			},
+			{
+				"id": 586,
+				"pid": 161,
+				"t": "17200 Royan, France",
+				"n": "Royan",
+				"lat": 45.623027,
+				"lng": -1.043182
+			},
+			{
+				"id": 593,
+				"pid": 60,
+				"t": "Russia",
+				"n": "Russia",
+				"lat": 61.52401,
+				"lng": 105.318756
+			},
+			{
+				"id": 423,
+				"pid": 415,
+				"t": "Rutland, VT, USA",
+				"n": "Rutland",
+				"lat": 43.610624,
+				"lng": -72.972606
+			},
+			{
+				"id": 96,
+				"pid": 67,
+				"t": "Sacramento, CA, USA",
+				"n": "Sacramento",
+				"lat": 38.581572,
+				"lng": -121.4944
+			},
+			{
+				"id": 365,
+				"pid": 42,
+				"t": "Saint Albert, AB, Canada",
+				"n": "Saint Albert",
+				"lat": 53.630475,
+				"lng": -113.625642
+			},
+			{
+				"id": 407,
+				"pid": 74,
+				"t": "St Augustine, FL, USA",
+				"n": "Saint Augustine",
+				"lat": 29.901244,
+				"lng": -81.312434
+			},
+			{
+				"id": 290,
+				"pid": 289,
+				"t": "Saint Louis, MO, USA",
+				"n": "Saint Louis",
+				"lat": 38.627003,
+				"lng": -90.199404
+			},
+			{
+				"id": 594,
+				"pid": 593,
+				"t": "St Petersburg, Russia",
+				"n": "Saint Petersburg",
+				"lat": 59.93428,
+				"lng": 30.335099
+			},
+			{
+				"id": 208,
+				"pid": 63,
+				"t": "Salem, OR, USA",
+				"n": "Salem",
+				"lat": 44.942898,
+				"lng": -123.035096
+			},
+			{
+				"id": 90,
+				"pid": 89,
+				"t": "Salt Lake City, UT, USA",
+				"n": "Salt Lake City",
+				"lat": 40.760779,
+				"lng": -111.891047
+			},
+			{
+				"id": 305,
+				"pid": 67,
+				"t": "San Andreas, CA, USA",
+				"n": "San Andreas",
+				"lat": 38.19603,
+				"lng": -120.680487
+			},
+			{
+				"id": 39,
+				"pid": 35,
+				"t": "San Antonio, TX, USA",
+				"n": "San Antonio",
+				"lat": 29.424122,
+				"lng": -98.493628
+			},
+			{
+				"id": 361,
+				"pid": 67,
+				"t": "San Benito County, CA, USA",
+				"n": "San Benito County",
+				"lat": 36.576088,
+				"lng": -120.987632
+			},
+			{
+				"id": 220,
+				"pid": 67,
+				"t": "San Bernardino, CA, USA",
+				"n": "San Bernardino",
+				"lat": 34.108345,
+				"lng": -117.289765
+			},
+			{
+				"id": 155,
+				"pid": 67,
+				"t": "San Diego, CA, USA",
+				"n": "San Diego",
+				"lat": 32.715329,
+				"lng": -117.157255
+			},
+			{
+				"id": 348,
+				"pid": 63,
+				"t": "Sandy, OR, USA",
+				"n": "Sandy",
+				"lat": 45.397343,
+				"lng": -122.261476
+			},
+			{
+				"id": 68,
+				"pid": 67,
+				"t": "San Francisco, CA, USA",
+				"n": "San Francisco",
+				"lat": 37.774929,
+				"lng": -122.419415
+			},
+			{
+				"id": 367,
+				"pid": 67,
+				"t": "San Gabriel Valley, Avocado Heights, CA 90601, USA",
+				"n": "San Gabriel Valley",
+				"lat": 34.033344,
+				"lng": -118.037011
+			},
+			{
+				"id": 70,
+				"pid": 67,
+				"t": "San Jose, CA, USA",
+				"n": "San Jose",
+				"lat": 37.339386,
+				"lng": -121.894955
+			},
+			{
+				"id": 512,
+				"pid": 67,
+				"t": "San Luis Obispo, CA, USA",
+				"n": "San Luis Obispo",
+				"lat": 35.282752,
+				"lng": -120.659616
+			},
+			{
+				"id": 508,
+				"pid": 166,
+				"t": "San Sebastián, Gipuzkoa, Spain",
+				"n": "San Sebastián",
+				"lat": 43.318334,
+				"lng": -1.981231
+			},
+			{
+				"id": 249,
+				"pid": 67,
+				"t": "Santa Cruz, CA, USA",
+				"n": "Santa Cruz",
+				"lat": 36.974117,
+				"lng": -122.030796
+			},
+			{
+				"id": 562,
+				"pid": 67,
+				"t": "Santa Maria, CA, USA",
+				"n": "Santa Maria",
+				"lat": 34.953034,
+				"lng": -120.435719
+			},
+			{
+				"id": 195,
+				"pid": 67,
+				"t": "Santa Monica, CA, USA",
+				"n": "Santa Monica",
+				"lat": 34.019454,
+				"lng": -118.491191
+			},
+			{
+				"id": 284,
+				"pid": 74,
+				"t": "Sarasota, FL, USA",
+				"n": "Sarasota",
+				"lat": 27.336435,
+				"lng": -82.530653
+			},
+			{
+				"id": 196,
+				"pid": 32,
+				"t": "Saskatchewan, Canada",
+				"n": "Saskatchewan",
+				"lat": 52.939916,
+				"lng": -106.450864
+			},
+			{
+				"id": 197,
+				"pid": 196,
+				"t": "Saskatoon, SK, Canada",
+				"n": "Saskatoon",
+				"lat": 52.13437,
+				"lng": -106.647656
+			},
+			{
+				"id": 66,
+				"pid": 65,
+				"t": "Seattle, WA, USA",
+				"n": "Seattle",
+				"lat": 47.606209,
+				"lng": -122.332071
+			},
+			{
+				"id": 192,
+				"pid": 97,
+				"t": "Sedona, AZ, USA",
+				"n": "Sedona",
+				"lat": 34.86974,
+				"lng": -111.76099
+			},
+			{
+				"id": 595,
+				"pid": 54,
+				"t": "Sherbrooke, QC, Canada",
+				"n": "Sherbrooke",
+				"lat": 45.400993,
+				"lng": -71.882429
+			},
+			{
+				"id": 436,
+				"pid": 257,
+				"t": "Shimada, Shizuoka Prefecture, Japan",
+				"n": "Shimada",
+				"lat": 34.836364,
+				"lng": 138.175997
+			},
+			{
+				"id": 257,
+				"pid": 256,
+				"t": "Shizuoka Prefecture, Japan",
+				"n": "Shizuoka Prefecture",
+				"lat": 34.97712,
+				"lng": 138.383084
+			},
+			{
+				"id": 521,
+				"pid": 78,
+				"t": "Sicily, Italy",
+				"n": "Sicily",
+				"lat": 37.599994,
+				"lng": 14.015356
+			},
+			{
+				"id": 267,
+				"pid": 266,
+				"t": "Sioux Falls, SD, USA",
+				"n": "Sioux Falls",
+				"lat": 43.544596,
+				"lng": -96.731103
+			},
+			{
+				"id": 362,
+				"pid": 67,
+				"t": "Siskiyou County, CA, USA",
+				"n": "Siskiyou County",
+				"lat": 41.774326,
+				"lng": -122.577013
+			},
+			{
+				"id": 515,
+				"pid": 276,
+				"t": "Sitka, AK, USA",
+				"n": "Sitka",
+				"lat": 57.053056,
+				"lng": -135.33
+			},
+			{
+				"id": 498,
+				"pid": 65,
+				"t": "Skamania County, WA, USA",
+				"n": "Skamania County",
+				"lat": 45.942852,
+				"lng": -121.896226
+			},
+			{
+				"id": 487,
+				"pid": 67,
+				"t": "Solano County, CA, USA",
+				"n": "Solano County",
+				"lat": 38.310497,
+				"lng": -121.901795
+			},
+			{
+				"id": 321,
+				"pid": 67,
+				"t": "Sonoma County, CA, USA",
+				"n": "Sonoma County",
+				"lat": 38.577956,
+				"lng": -122.988832
+			},
+			{
+				"id": 100,
+				"pid": 99,
+				"t": "South Africa",
+				"n": "South Africa",
+				"lat": -30.559482,
+				"lng": 22.937506
+			},
+			{
+				"id": 387,
+				"pid": 0,
+				"t": "South America",
+				"n": "South America",
+				"lat": -8.783195,
+				"lng": -55.491477
+			},
+			{
+				"id": 3,
+				"pid": 2,
+				"t": "South Australia, Australia",
+				"n": "South Australia",
+				"lat": -30.000232,
+				"lng": 136.209155
+			},
+			{
+				"id": 268,
+				"pid": 31,
+				"t": "South Carolina, USA",
+				"n": "South Carolina",
+				"lat": 33.836081,
+				"lng": -81.163725
+			},
+			{
+				"id": 266,
+				"pid": 31,
+				"t": "South Dakota, USA",
+				"n": "South Dakota",
+				"lat": 43.969515,
+				"lng": -99.901813
+			},
+			{
+				"id": 109,
+				"pid": 0,
+				"t": "South East Asia",
+				"n": "South East Asia",
+				"lat": -2.21797,
+				"lng": 115.66283
+			},
+			{
+				"id": 166,
+				"pid": 60,
+				"t": "Spain",
+				"n": "Spain",
+				"lat": 40.463667,
+				"lng": -3.74922
+			},
+			{
+				"id": 157,
+				"pid": 65,
+				"t": "Spokane, WA, USA",
+				"n": "Spokane",
+				"lat": 47.65878,
+				"lng": -117.426047
+			},
+			{
+				"id": 391,
+				"pid": 145,
+				"t": "Springfield, IL, USA",
+				"n": "Springfield",
+				"lat": 39.781721,
+				"lng": -89.650148
+			},
+			{
+				"id": 230,
+				"pid": 227,
+				"t": "Stamford, CT, USA",
+				"n": "Stamford",
+				"lat": 41.05343,
+				"lng": -73.538734
+			},
+			{
+				"id": 539,
+				"pid": 67,
+				"t": "Stanford, CA, USA",
+				"n": "Stanford",
+				"lat": 37.424106,
+				"lng": -122.166076
+			},
+			{
+				"id": 363,
+				"pid": 67,
+				"t": "Stanislaus County, CA, USA",
+				"n": "Stanislaus County",
+				"lat": 37.509071,
+				"lng": -120.987632
+			},
+			{
+				"id": 394,
+				"pid": 105,
+				"t": "State College, PA, USA",
+				"n": "State College",
+				"lat": 40.793395,
+				"lng": -77.860001
+			},
+			{
+				"id": 117,
+				"pid": 91,
+				"t": "Staten Island, NY, USA",
+				"n": "Staten Island",
+				"lat": 40.579532,
+				"lng": -74.150201
+			},
+			{
+				"id": 389,
+				"pid": 388,
+				"t": "State of Rio Grande do Sul, Brazil",
+				"n": "State of Rio Grande do Sul",
+				"lat": -30.034632,
+				"lng": -51.217699
+			},
+			{
+				"id": 211,
+				"pid": 210,
+				"t": "St. John's, NL, Canada",
+				"n": "St. John's",
+				"lat": 47.560541,
+				"lng": -52.712832
+			},
+			{
+				"id": 252,
+				"pid": 67,
+				"t": "Stockton, CA, USA",
+				"n": "Stockton",
+				"lat": 37.957702,
+				"lng": -121.29078
+			},
+			{
+				"id": 514,
+				"pid": 46,
+				"t": "Sudbury, ON, Canada",
+				"n": "Sudbury",
+				"lat": 46.522099,
+				"lng": -80.953035
+			},
+			{
+				"id": 316,
+				"pid": 67,
+				"t": "Susanville, CA, USA",
+				"n": "Susanville",
+				"lat": 40.416284,
+				"lng": -120.653006
+			},
+			{
+				"id": 260,
+				"pid": 257,
+				"t": "Susono, Shizuoka Prefecture, Japan",
+				"n": "Susono",
+				"lat": 35.173882,
+				"lng": 138.906729
+			},
+			{
+				"id": 77,
+				"pid": 60,
+				"t": "Sweden",
+				"n": "Sweden",
+				"lat": 60.128161,
+				"lng": 18.643501
+			},
+			{
+				"id": 371,
+				"pid": 60,
+				"t": "Switzerland",
+				"n": "Switzerland",
+				"lat": 46.818188,
+				"lng": 8.227512
+			},
+			{
+				"id": 114,
+				"pid": 113,
+				"t": "Sydney NSW, Australia",
+				"n": "Sydney",
+				"lat": -33.867487,
+				"lng": 151.20699
+			},
+			{
+				"id": 201,
+				"pid": 84,
+				"t": "Syracuse, NY, USA",
+				"n": "Syracuse",
+				"lat": 43.048122,
+				"lng": -76.147424
+			},
+			{
+				"id": 435,
+				"pid": 434,
+				"t": "Szczecin, Poland",
+				"n": "Szczecin",
+				"lat": 53.428544,
+				"lng": 14.552812
+			},
+			{
+				"id": 468,
+				"pid": 61,
+				"t": "Szeged, Hungary",
+				"n": "Szeged",
+				"lat": 46.25301,
+				"lng": 20.141425
+			},
+			{
+				"id": 181,
+				"pid": 74,
+				"t": "Tampa, FL, USA",
+				"n": "Tampa",
+				"lat": 27.950575,
+				"lng": -82.457178
+			},
+			{
+				"id": 531,
+				"pid": 530,
+				"t": "Tampere, Finland",
+				"n": "Tampere",
+				"lat": 61.497752,
+				"lng": 23.760953
+			},
+			{
+				"id": 221,
+				"pid": 2,
+				"t": "Tasmania, Australia",
+				"n": "Tasmania",
+				"lat": -41.365042,
+				"lng": 146.62849
+			},
+			{
+				"id": 364,
+				"pid": 67,
+				"t": "Tehama County, CA, USA",
+				"n": "Tehama County",
+				"lat": 40.09822,
+				"lng": -122.174605
+			},
+			{
+				"id": 174,
+				"pid": 31,
+				"t": "Tennessee, USA",
+				"n": "Tennessee",
+				"lat": 35.517491,
+				"lng": -86.580447
+			},
+			{
+				"id": 493,
+				"pid": 164,
+				"t": "Terre Haute, IN, USA",
+				"n": "Terre Haute",
+				"lat": 39.466703,
+				"lng": -87.413909
+			},
+			{
+				"id": 35,
+				"pid": 31,
+				"t": "Texas, USA",
+				"n": "Texas",
+				"lat": 31.968599,
+				"lng": -99.901813
+			},
+			{
+				"id": 583,
+				"pid": 109,
+				"t": "Thailand",
+				"n": "Thailand",
+				"lat": 15.870032,
+				"lng": 100.992541
+			},
+			{
+				"id": 194,
+				"pid": 60,
+				"t": "The Netherlands",
+				"n": "The Netherlands",
+				"lat": 52.132633,
+				"lng": 5.291266
+			},
+			{
+				"id": 504,
+				"pid": 67,
+				"t": "Thousand Oaks, CA, USA",
+				"n": "Thousand Oaks",
+				"lat": 34.170561,
+				"lng": -118.837594
+			},
+			{
+				"id": 253,
+				"pid": 67,
+				"t": "Thousand Palms, CA, USA",
+				"n": "Thousand Palms",
+				"lat": 33.820018,
+				"lng": -116.390289
+			},
+			{
+				"id": 158,
+				"pid": 46,
+				"t": "Thunder Bay, ON, Canada",
+				"n": "Thunder Bay",
+				"lat": 48.380895,
+				"lng": -89.247682
+			},
+			{
+				"id": 355,
+				"pid": 63,
+				"t": "Tillamook, OR 97141, USA",
+				"n": "Tillamook",
+				"lat": 45.456216,
+				"lng": -123.844014
+			},
+			{
+				"id": 24,
+				"pid": 9,
+				"t": "Toowoomba QLD, Australia",
+				"n": "Toowoomba",
+				"lat": -27.56433,
+				"lng": 151.953987
+			},
+			{
+				"id": 49,
+				"pid": 46,
+				"t": "Toronto, ON, Canada",
+				"n": "Toronto",
+				"lat": 43.653226,
+				"lng": -79.383184
+			},
+			{
+				"id": 295,
+				"pid": 67,
+				"t": "Torrance, CA, USA",
+				"n": "Torrance",
+				"lat": 33.835849,
+				"lng": -118.340629
+			},
+			{
+				"id": 445,
+				"pid": 161,
+				"t": "Toulouse, France",
+				"n": "Toulouse",
+				"lat": 43.604652,
+				"lng": 1.444209
+			},
+			{
+				"id": 419,
+				"pid": 415,
+				"t": "Town of Rockingham, VT, USA",
+				"n": "Town of Rockingham",
+				"lat": 43.187603,
+				"lng": -72.488929
+			},
+			{
+				"id": 27,
+				"pid": 9,
+				"t": "Townsville QLD, Australia",
+				"n": "Townsville",
+				"lat": -19.257627,
+				"lng": 146.817871
+			},
+			{
+				"id": 524,
+				"pid": 78,
+				"t": "Trentino-Alto Adige/South Tyrol, Italy",
+				"n": "Trentino-Alto Adige/South Tyrol",
+				"lat": 46.433666,
+				"lng": 11.16933
+			},
+			{
+				"id": 460,
+				"pid": 524,
+				"t": "Trento, Italy",
+				"n": "Trento",
+				"lat": 46.074779,
+				"lng": 11.121749
+			},
+			{
+				"id": 325,
+				"pid": 67,
+				"t": "Trinity County, CA, USA",
+				"n": "Trinity County",
+				"lat": 40.632948,
+				"lng": -123.062255
+			},
+			{
+				"id": 433,
+				"pid": 97,
+				"t": "Tucson, AZ, USA",
+				"n": "Tucson",
+				"lat": 32.221743,
+				"lng": -110.926479
+			},
+			{
+				"id": 378,
+				"pid": 376,
+				"t": "Tulsa, OK, USA",
+				"n": "Tulsa",
+				"lat": 36.153982,
+				"lng": -95.992775
+			},
+			{
+				"id": 79,
+				"pid": 522,
+				"t": "Turin, Italy",
+				"n": "Turin",
+				"lat": 45.070982,
+				"lng": 7.685676
+			},
+			{
+				"id": 534,
+				"pid": 530,
+				"t": "Turku, Finland",
+				"n": "Turku",
+				"lat": 60.451813,
+				"lng": 22.26663
+			},
+			{
+				"id": 542,
+				"pid": 78,
+				"t": "Tuscany, Italy",
+				"n": "Tuscany",
+				"lat": 43.771051,
+				"lng": 11.248621
+			},
+			{
+				"id": 370,
+				"pid": 168,
+				"t": "Ulm, Germany",
+				"n": "Ulm",
+				"lat": 48.401082,
+				"lng": 9.987608
+			},
+			{
+				"id": 177,
+				"pid": 60,
+				"t": "United Kingdom",
+				"n": "United Kingdom",
+				"lat": 55.378051,
+				"lng": -3.435973
+			},
+			{
+				"id": 31,
+				"pid": 30,
+				"t": "United States",
+				"n": "United States",
+				"lat": 37.09024,
+				"lng": -95.712891
+			},
+			{
+				"id": 89,
+				"pid": 31,
+				"t": "Utah, USA",
+				"n": "Utah",
+				"lat": 39.32098,
+				"lng": -111.093731
+			},
+			{
+				"id": 205,
+				"pid": 84,
+				"t": "Utica, NY, USA",
+				"n": "Utica",
+				"lat": 43.100903,
+				"lng": -75.232664
+			},
+			{
+				"id": 517,
+				"pid": 166,
+				"t": "Valencia, Spain",
+				"n": "Valencia",
+				"lat": 39.469907,
+				"lng": -0.376288
+			},
+			{
+				"id": 45,
+				"pid": 44,
+				"t": "Vancouver, BC, Canada",
+				"n": "Vancouver",
+				"lat": 49.261226,
+				"lng": -123.113927
+			},
+			{
+				"id": 209,
+				"pid": 65,
+				"t": "Vancouver, WA, USA",
+				"n": "Vancouver",
+				"lat": 45.638728,
+				"lng": -122.661486
+			},
+			{
+				"id": 380,
+				"pid": 519,
+				"t": "Varese VA, Italy",
+				"n": "Varese",
+				"lat": 45.820599,
+				"lng": 8.825058
+			},
+			{
+				"id": 525,
+				"pid": 78,
+				"t": "Veneto, Italy",
+				"n": "Veneto",
+				"lat": 45.762333,
+				"lng": 11.690976
+			},
+			{
+				"id": 471,
+				"pid": 525,
+				"t": "Venice, Italy",
+				"n": "Venice",
+				"lat": 45.440847,
+				"lng": 12.315515
+			},
+			{
+				"id": 585,
+				"pid": 67,
+				"t": "Ventura County, CA, USA",
+				"n": "Ventura County",
+				"lat": 34.370488,
+				"lng": -119.139064
+			},
+			{
+				"id": 415,
+				"pid": 31,
+				"t": "Vermont, USA",
+				"n": "Vermont",
+				"lat": 44.558803,
+				"lng": -72.577841
+			},
+			{
+				"id": 322,
+				"pid": 2,
+				"t": "Victoria, Australia",
+				"n": "Victoria",
+				"lat": -37.471308,
+				"lng": 144.785153
+			},
+			{
+				"id": 476,
+				"pid": 475,
+				"t": "Vilnius, Lithuania",
+				"n": "Vilnius",
+				"lat": 54.687156,
+				"lng": 25.279651
+			},
+			{
+				"id": 138,
+				"pid": 31,
+				"t": "Virginia, USA",
+				"n": "Virginia",
+				"lat": 37.431573,
+				"lng": -78.656894
+			},
+			{
+				"id": 187,
+				"pid": 166,
+				"t": "Vitoria-Gasteiz, Álava, Spain",
+				"n": "Vitoria-Gasteiz",
+				"lat": 42.859166,
+				"lng": -2.681792
+			},
+			{
+				"id": 384,
+				"pid": 382,
+				"t": "Walloon Region, Belgium",
+				"n": "Walloon Region",
+				"lat": 50.400501,
+				"lng": 5.133513
+			},
+			{
+				"id": 358,
+				"pid": 63,
+				"t": "Wallowa County, OR, USA",
+				"n": "Wallowa County",
+				"lat": 45.592984,
+				"lng": -116.971799
+			},
+			{
+				"id": 564,
+				"pid": 92,
+				"t": "Waltham, MA, USA",
+				"n": "Waltham",
+				"lat": 42.376485,
+				"lng": -71.235611
+			},
+			{
+				"id": 518,
+				"pid": 434,
+				"t": "Warsaw, Poland",
+				"n": "Warsaw",
+				"lat": 52.229676,
+				"lng": 21.012229
+			},
+			{
+				"id": 25,
+				"pid": 9,
+				"t": "Warwick QLD 4370, Australia",
+				"n": "Warwick",
+				"lat": -28.214373,
+				"lng": 152.035145
+			},
+			{
+				"id": 65,
+				"pid": 31,
+				"t": "Washington, USA",
+				"n": "Washington",
+				"lat": 47.751074,
+				"lng": -120.740139
+			},
+			{
+				"id": 112,
+				"pid": 111,
+				"t": "Washington, DC, USA",
+				"n": "Washington",
+				"lat": 38.907231,
+				"lng": -77.036464
+			},
+			{
+				"id": 231,
+				"pid": 227,
+				"t": "Waterbury, CT, USA",
+				"n": "Waterbury",
+				"lat": 41.558152,
+				"lng": -73.051496
+			},
+			{
+				"id": 159,
+				"pid": 46,
+				"t": "Waterloo, ON, Canada",
+				"n": "Waterloo",
+				"lat": 43.464258,
+				"lng": -80.52041
+			},
+			{
+				"id": 455,
+				"pid": 151,
+				"t": "Waukesha, WI, USA",
+				"n": "Waukesha",
+				"lat": 43.011678,
+				"lng": -88.231481
+			},
+			{
+				"id": 29,
+				"pid": 28,
+				"t": "Wellington, New Zealand",
+				"n": "Wellington",
+				"lat": -41.28646,
+				"lng": 174.776236
+			},
+			{
+				"id": 299,
+				"pid": 65,
+				"t": "Wenatchee, WA, USA",
+				"n": "Wenatchee",
+				"lat": 47.42346,
+				"lng": -120.310349
+			},
+			{
+				"id": 327,
+				"pid": 84,
+				"t": "Westchester County, NY, USA",
+				"n": "Westchester County",
+				"lat": 41.122019,
+				"lng": -73.794852
+			},
+			{
+				"id": 5,
+				"pid": 2,
+				"t": "Western Australia, Australia",
+				"n": "Western Australia",
+				"lat": -27.672817,
+				"lng": 121.62831
+			},
+			{
+				"id": 101,
+				"pid": 100,
+				"t": "Western Cape, South Africa",
+				"n": "Western Cape",
+				"lat": -33.227792,
+				"lng": 21.856859
+			},
+			{
+				"id": 462,
+				"pid": 74,
+				"t": "West Palm Beach, FL, USA",
+				"n": "West Palm Beach",
+				"lat": 26.715342,
+				"lng": -80.053375
+			},
+			{
+				"id": 448,
+				"pid": 447,
+				"t": "Wichita, KS, USA",
+				"n": "Wichita",
+				"lat": 37.687176,
+				"lng": -97.330053
+			},
+			{
+				"id": 473,
+				"pid": 140,
+				"t": "Wilmington, NC, USA",
+				"n": "Wilmington",
+				"lat": 34.225726,
+				"lng": -77.94471
+			},
+			{
+				"id": 420,
+				"pid": 415,
+				"t": "Wilmington, VT, USA",
+				"n": "Wilmington",
+				"lat": 42.868389,
+				"lng": -72.871447
+			},
+			{
+				"id": 326,
+				"pid": 63,
+				"t": "Wilsonville, OR, USA",
+				"n": "Wilsonville",
+				"lat": 45.299842,
+				"lng": -122.773706
+			},
+			{
+				"id": 573,
+				"pid": 46,
+				"t": "Windsor, ON, Canada",
+				"n": "Windsor",
+				"lat": 42.314937,
+				"lng": -83.036363
+			},
+			{
+				"id": 34,
+				"pid": 33,
+				"t": "Winnipeg, MB, Canada",
+				"n": "Winnipeg",
+				"lat": 49.899754,
+				"lng": -97.137494
+			},
+			{
+				"id": 151,
+				"pid": 31,
+				"t": "Wisconsin, USA",
+				"n": "Wisconsin",
+				"lat": 43.78444,
+				"lng": -88.787868
+			},
+			{
+				"id": 262,
+				"pid": 138,
+				"t": "Woodbridge, VA, USA",
+				"n": "Woodbridge",
+				"lat": 38.658172,
+				"lng": -77.249705
+			},
+			{
+				"id": 359,
+				"pid": 63,
+				"t": "Woodburn, OR, USA",
+				"n": "Woodburn",
+				"lat": 45.143731,
+				"lng": -122.855373
+			},
+			{
+				"id": 131,
+				"pid": 92,
+				"t": "Worcester, MA, USA",
+				"n": "Worcester",
+				"lat": 42.262593,
+				"lng": -71.802293
+			},
+			{
+				"id": 486,
+				"pid": 434,
+				"t": "Wrocław, Poland",
+				"n": "Wrocław",
+				"lat": 51.107885,
+				"lng": 17.038538
+			},
+			{
+				"id": 142,
+				"pid": 65,
+				"t": "Yakima, WA, USA",
+				"n": "Yakima",
+				"lat": 46.602071,
+				"lng": -120.505899
+			},
+			{
+				"id": 592,
+				"pid": 256,
+				"t": "Yamanashi Prefecture, Japan",
+				"n": "Yamanashi Prefecture",
+				"lat": 35.664158,
+				"lng": 138.568449
+			},
+			{
+				"id": 360,
+				"pid": 63,
+				"t": "Yamhill County, OR, USA",
+				"n": "Yamhill County",
+				"lat": 45.177198,
+				"lng": -123.23953
+			},
+			{
+				"id": 26,
+				"pid": 9,
+				"t": "Yeppoon QLD 4703, Australia",
+				"n": "Yeppoon",
+				"lat": -23.127888,
+				"lng": 150.745366
+			},
+			{
+				"id": 292,
+				"pid": 105,
+				"t": "York, PA, USA",
+				"n": "York",
+				"lat": 39.962598,
+				"lng": -76.727745
+			},
+			{
+				"id": 50,
+				"pid": 46,
+				"t": "York, Toronto, ON, Canada",
+				"n": "York",
+				"lat": 43.695679,
+				"lng": -79.450354
+			},
+			{
+				"id": 582,
+				"pid": 46,
+				"t": "York Regional Municipality, ON, Canada",
+				"n": "York Regional Municipality",
+				"lat": 43.988461,
+				"lng": -79.470388
+			},
+			{
+				"id": 144,
+				"pid": 67,
+				"t": "Yosemite Valley, CA, USA",
+				"n": "Yosemite Valley",
+				"lat": 37.74557,
+				"lng": -119.593604
+			},
+			{
+				"id": 143,
+				"pid": 67,
+				"t": "Yuba City, CA, USA",
+				"n": "Yuba City",
+				"lat": 39.140448,
+				"lng": -121.616911
+			},
+			{
+				"id": 241,
+				"pid": 97,
+				"t": "Yuma, AZ, USA",
+				"n": "Yuma",
+				"lat": 32.692651,
+				"lng": -114.627692
+			}
+		]
+	}
+}

@@ -4,12 +4,13 @@ const configs = require('./configs.js')
 	, pug = require('pug')
 	;
 
-const PORT = configs.get('PORT') || 8888;
+const PORT = configs.get('PORT') || 3333;
 
 var app = express();
 
 app.set('views', './views');
 app.set('view engine', 'pug');
+app.use(express.static('public'));
 
 app.get('/', (req, res) => {
 	res.render('index', {

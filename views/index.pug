@@ -1,6 +1,8 @@
-html
-head
-	meta(charset="UTF-8")
-	title= title
-body
-	h1 Hello world
+extends base.pug
+
+block content
+	section#content
+		h1#title Hello world
+		button(id='btn' disabled='disabled') /getLocations
+block scripts
+	script(src="js/index-controller.js")
