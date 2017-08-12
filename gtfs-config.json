@@ -1,0 +1,53 @@
+{
+	"mongoUrl": "mongodb://localhost:27017/gtfs"
+	, "agencies": [
+		{
+			"agency_key": "Emery Go-Round GTFS"
+			, "url": "http://data.trilliumtransit.com/gtfs/emerygoround-ca-us/emerygoround-ca-us.zip"
+		}
+		, {
+			"agency_key": "LTA GTFS"
+			, "url": "http://data.trilliumtransit.com/gtfs/laketransit-ca-us/laketransit-ca-us.zip"
+		}
+		, {
+			"agency_key": "WestCAT GTFS"
+			, "url": "http://data.trilliumtransit.com/gtfs/westcat-ca-us/westcat-ca-us.zip"
+		}
+		, {
+			"agency_key": "Petaluma Transit GTFS"
+			, "url": "http://data.trilliumtransit.com/gtfs/petalumatransit-petaluma-ca-us/petalumatransit-petaluma-ca-us.zip"
+		}
+		, {
+			"agency_key": "Marin Transit GTFS"
+			, "url": "http://www.marintransit.org/data/google_transit.zip"
+		}
+		, {
+			"agency_key": "Tideline Water Taxi GTFS"
+			, "url": "http://trilliumtransit.com/transit_feeds/tidelinewatertaxi-ca-us/tidelinewatertaxi-ca-us.zip"
+		}
+		, {
+			"agency_key": "Golden Gate Transit GTFS"
+			, "url": "http://goldengatetransit.org/googleTransit/GTFSTransitData.zip"
+		}
+		, {
+			"agency_key": "Caltrain GTFS"
+			, "url": "http://www.caltrain.com/Assets/GTFS/caltrain/CT-GTFS.zip"
+		}
+		, {
+			"agency_key": "BART GTFS"
+			, "url": "http://www.bart.gov/dev/schedules/google_transit.zip"
+		}
+		, {
+			"agency_key": "Muni GTFS"
+			, "url": "http://sfmta.com/transitdata/google_transit.zip"
+		}
+		, {
+			"agency_key": "SCT GTFS"
+			, "url": "http://data.trilliumtransit.com/gtfs/sonomacounty-ca-us/sonomacounty-ca-us.zip"
+		}
+	]
+	, "includeStops": true
+	, "outputType": "route"
+	, "coordinatePrecision": 5
+	, "zipOutput": false
+}

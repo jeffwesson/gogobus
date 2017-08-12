@@ -1,0 +1,12 @@
+extends base.pug
+
+block content
+	section#content
+		h1#title Hello world
+		button(id='btn' disabled='disabled') /getLocations
+block scripts
+	script.
+		window.gogobus = {
+			dataLayer: !{JSON.stringify(data)}
+		};
+	script(src="/js/getLocations.js")

@@ -1,0 +1,11 @@
+extends base.pug
+
+block content
+	section#content
+		h1#title Agencies
+		script.
+			window.ddd = !{JSON.stringify(data)};
+			console.log(ddd)
+		p=ddd
+		//- for agency in data.agencies
+		//- 	code= agency
