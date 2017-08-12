@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 .*
 _*
+=======
+./.*
+./_*
+>>>>>>> need to factor out a makeRequest funtion
 node_modules
