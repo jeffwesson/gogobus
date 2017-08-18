@@ -51,4 +51,24 @@ app.get('/v1/agencies', (req, res) => {
 		;
 });
 
+app.get('/v1/routes/:agency', (req, res) => {
+	let agencyKey = req.params.agency;
+	gtfs.getRoutesByAgency(agencyKey)
+		.then(routes => {
+			res.render('routes', {
+				data: { routes }
+				, title: `${agencyKey} routes`
+			});
+		})
+		.catch(err => {
+			res.status(500);
+			res.statusMessage = console.trace(err).toString();
+			res.
+			res.render('index', {
+				title: `${agencyKey} routes error`
+			});
+		})
+		;
+});
+
 app.listen(PORT, () => console.log(`Server listening on port ${PORT}.`));
