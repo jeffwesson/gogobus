@@ -1,0 +1,7 @@
+extends base.pug
+
+block content
+	section#content
+		h1#title Stops
+		for stop in data.stops
+			pre!= JSON.stringify(stop, '\t', 4)

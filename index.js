@@ -17,6 +17,19 @@ app.set('views', './views');
 app.set('view engine', 'pug');
 app.use(express.static('public'));
 
+app.use((req, res, next) => {
+	let { secret } = req.headers;
+	if (req.url.indexOf('/v1') > -1) {
+		if (secret !== configs.get('API_SECRET')) {
+			res.status(401);
+			res.statusMessage = 'Invalid secret.'
+			res.send({ status: 401, statusMessage: 'Invalid secret.'});
+			return;
+		}
+	}
+	next();
+});
+
 app.get('/', (req, res) => {
 	res.render('index', {
 		title: 'Home'
@@ -32,18 +45,16 @@ app.get('/get-locations/range/:range', (req, res) => {
 	});
 });
 
+// API
+//
 app.get('/v1/agencies', (req, res) => {
 	gtfs.agencies()
 		.then(agencies => {
-			res.render('agencies', {
-				data: { agencies }
-				, title: 'Agencies'
-			});
+			res.send({ agencies });
 		})
 		.catch(err => {
 			res.status(500);
 			res.statusMessage = console.trace(err).toString();
-			res.
 			res.render('index', {
 				title: 'Agencies Error'
 			});
@@ -52,20 +63,32 @@ app.get('/v1/agencies', (req, res) => {
 });
 
 app.get('/v1/routes/:agency', (req, res) => {
-	let agencyKey = req.params.agency;
-	gtfs.getRoutesByAgency(agencyKey)
+	let { agency } = req.params;
+	gtfs.getRoutesByAgency(agency)
 		.then(routes => {
-			res.render('routes', {
-				data: { routes }
-				, title: `${agencyKey} routes`
-			});
+			res.send({ routes });
 		})
 		.catch(err => {
 			res.status(500);
 			res.statusMessage = console.trace(err).toString();
-			res.
 			res.render('index', {
-				title: `${agencyKey} routes error`
+				title: `${agency} routes error`
+			});
+		})
+		;
+});
+
+app.get('/v1/stops/:agency/:route', (req, res) => {
+	let { agency, route } = req.params;
+	gtfs.getStopsByRoute(agency, route)
+		.then(stops => {
+			res.send({ stops });
+		})
+		.catch(err => {
+			res.status(500);
+			res.statusMessage = console.trace(err).toString();
+			res.render('index', {
+				title: `${route} stops error`
 			});
 		})
 		;

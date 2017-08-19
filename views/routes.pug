@@ -4,4 +4,4 @@ block content
 	section#content
 		h1#title Routes
 		for route in data.routes
-			pre= route
+			pre!= JSON.stringify(route, '\t', 4)

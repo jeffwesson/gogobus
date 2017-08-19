@@ -4,4 +4,4 @@ block content
 	section#content
 		h1#title Agencies
 		for agency in data.agencies
-			pre= agency
+			pre!= JSON.stringify(agency, '\t', 4)
