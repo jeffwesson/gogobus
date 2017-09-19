@@ -78,6 +78,22 @@ app.get('/v1/routes/:agency', (req, res) => {
 		;
 });
 
+app.get('/v1/routes/:route_id', (req, res) => {
+	let { route_id } = req.params;
+	gtfs.getRoutesById(route_id)
+		.then(routes => {
+			res.send({ routes });
+		})
+		.catch(err => {
+			res.status(500);
+			res.statusMessage = console.trace(err).toString();
+			res.render('index', {
+				title: `${agency} routes error`
+			});
+		})
+		;
+});
+
 app.get('/v1/stops/:agency/:route', (req, res) => {
 	let { agency, route } = req.params;
 	gtfs.getStopsByRoute(agency, route)
