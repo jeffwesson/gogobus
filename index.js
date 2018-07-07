@@ -1,21 +1,37 @@
-const configs = require('./configs.js')
+const bodyParser = require('body-parser')
+	, cookieParser = require('cookie-parser')
+	, configs = require('./configs')
+	, debug = require('debug')
 	, express = require('express')
+	, favicon = require('serve-favicon')
 	, gtfs = require('gtfs')
+	, logger = require('morgan')
 	, mongoose = require('mongoose')
 	, pug = require('pug')
-	;
+	, stylus = require('stylus')
+;
 
-const PORT = configs.get('PORT') || 3333;
-const MONGODB_URI = configs.get('MONGODB_URI') || 'mongodb://localhost:27017/gtfs';
+const app = express()
+	, dbUri = configs.get('dburi')
+;
 
 mongoose.Promise = global.Promise;
-mongoose.connect(MONGODB_URI, { useMongoClient: true });
+if (mongoose.connection.readyState !== 1) {
+	mongoose.connect(dbUri, {useMongoClient: true});
+}
 
-var app = express();
-
-app.set('views', './views');
+// view engine setup
+app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
-app.use(express.static('public'));
+
+// uncomment after placing your favicon in /public
+//app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
+app.use(logger('dev'));
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(cookieParser());
+app.use(stylus.middleware(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'build')));
 
 app.use((req, res, next) => {
 	let { secret } = req.headers;
@@ -46,7 +62,7 @@ app.get('/get-locations/range/:range', (req, res) => {
 });
 
 // API
-//
+
 app.get('/v1/agencies', (req, res) => {
 	gtfs.agencies()
 		.then(agencies => {
@@ -58,8 +74,7 @@ app.get('/v1/agencies', (req, res) => {
 			res.render('index', {
 				title: 'Agencies Error'
 			});
-		})
-		;
+		});
 });
 
 app.get('/v1/routes/:agency', (req, res) => {
@@ -74,8 +89,7 @@ app.get('/v1/routes/:agency', (req, res) => {
 			res.render('index', {
 				title: `${agency} routes error`
 			});
-		})
-		;
+		});
 });
 
 app.get('/v1/routes/:route_id', (req, res) => {
@@ -90,8 +104,7 @@ app.get('/v1/routes/:route_id', (req, res) => {
 			res.render('index', {
 				title: `${agency} routes error`
 			});
-		})
-		;
+		});
 });
 
 app.get('/v1/stops/:agency/:route', (req, res) => {
@@ -106,8 +119,23 @@ app.get('/v1/stops/:agency/:route', (req, res) => {
 			res.render('index', {
 				title: `${route} stops error`
 			});
-		})
-		;
+		});
 });
 
-app.listen(PORT, () => console.log(`Server listening on port ${PORT}.`));
+// catch 404 and forward to error handler
+app.use(function (req, res, next) {
+	var err = new Error('Not Found');
+	err.status = 404;
+	next(err);
+});
+
+// error handler
+app.use(function (err, req, res, next) {
+	// set locals, only providing error in development
+	res.locals.message = err.message;
+	res.locals.error = req.app.get('env') === 'development' ? err : {};
+
+	// render the error page
+	res.status(err.status || 500);
+	res.render('error');
+});
